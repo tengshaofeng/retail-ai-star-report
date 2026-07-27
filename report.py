@@ -33,6 +33,8 @@ SEARCH_QUERIES = [
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
 RECIPIENT = os.getenv("REPORT_RECIPIENT", "307149416@qq.com")
+SMTP_HOST = os.getenv("SMTP_HOST", "smtp.qq.com")
+SMTP_PORT = int(os.getenv("SMTP_PORT", "465"))
 MIN_STARS = int(os.getenv("MIN_STARS", "5"))
 MAX_PER_QUERY = int(os.getenv("MAX_PER_QUERY", "100"))
 
@@ -191,7 +193,7 @@ def send_email(subject: str, body_html: str) -> None:
     message["Subject"] = subject
     message.set_content("此报告包含 HTML 内容，请使用支持 HTML 的邮件客户端查看。")
     message.add_alternative(body_html, subtype="html")
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as client:
+    with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, timeout=30) as client:
         client.login(username, password)
         client.send_message(message)
 

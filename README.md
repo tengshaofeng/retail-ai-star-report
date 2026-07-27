@@ -1,7 +1,7 @@
 # Retail AI Star Report
 
 每月追踪 GitHub 上与多模态大模型、商超巡检、零售视觉和电商理解相关的开源项目，
-按两次月度快照之间的 Star 增长量选出 Top 10，并通过 Gmail 发送报告。
+按两次月度快照之间的 Star 增长量选出 Top 10，并通过 QQ 邮箱发送报告。
 
 ## 工作方式
 
@@ -17,12 +17,13 @@
 
 | Secret | 内容 |
 | --- | --- |
-| `SMTP_USERNAME` | Gmail 发件地址，例如 `tengshaofeng8@gmail.com` |
-| `SMTP_APP_PASSWORD` | Gmail 应用专用密码，不是 Gmail 登录密码 |
+| `SMTP_USERNAME` | QQ 邮箱发件地址，例如 `307149416@qq.com` |
+| `SMTP_APP_PASSWORD` | QQ 邮箱 SMTP 授权码，不是 QQ 登录密码 |
 
 收件地址默认是 `307149416@qq.com`，可在工作流的 `REPORT_RECIPIENT` 中修改。
 
-Gmail 应用专用密码需要 Google 账号开启两步验证。不要把密码或授权码提交到仓库。
+需要先在 QQ 邮箱设置中开启 POP3/SMTP 或 IMAP/SMTP 服务并生成授权码。
+不要把密码或授权码提交到仓库。
 
 ## 手动运行
 

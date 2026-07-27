@@ -34,6 +34,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
           SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
+          SMTP_HOST: smtp.qq.com
+          SMTP_PORT: "465"
           REPORT_RECIPIENT: 307149416@qq.com
         run: python report.py
 
