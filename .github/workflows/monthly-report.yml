@@ -41,12 +41,12 @@ jobs:
 
       - name: Commit monthly snapshot
         run: |
-          if git diff --quiet -- data; then
+          git add data
+          if git diff --cached --quiet; then
             echo "No snapshot changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
           git commit -m "Record monthly Star snapshot"
           git push
