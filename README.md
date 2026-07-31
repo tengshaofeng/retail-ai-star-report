@@ -1,15 +1,15 @@
 # Retail AI Star Report
 
-每月追踪 GitHub 上与多模态大模型、商超巡检、零售视觉和电商理解相关的开源项目，
-按两次月度快照之间的 Star 增长量选出 Top 10，并通过 QQ 邮箱发送报告。
+每周追踪 GitHub 上与多模态大模型、商超巡检、零售视觉和电商理解相关的开源项目，
+按两次周度快照之间的 Star 增长量选出 Top 10，并通过 QQ 邮箱发送报告。
 
 ## 工作方式
 
-- GitHub Actions 在每月 1 日北京时间 09:00 运行，统计上一个自然月。
+- GitHub Actions 在每周五北京时间 17:30 运行，统计过去一周。
 - 脚本使用多组主题查询发现候选仓库，合并去重后保存当前 Star 快照。
 - 排名使用本次 Star 数减去上次快照 Star 数；首次运行只建立基线。
-- 每次运行都会把 `data/` 中的新快照提交回仓库，供下月比较。
-- 新发现且上月快照中不存在的仓库不会虚增月增长量，会从下一周期开始参与排名。
+- 每次运行都会把 `data/` 中的新快照提交回仓库，供下周比较。
+- 新发现且上周快照中不存在的仓库不会虚增周增长量，会从下一周期开始参与排名。
 
 ## 必需的 GitHub Secrets
 
@@ -27,7 +27,7 @@
 
 ## 手动运行
 
-配置 Secrets 后，在仓库 **Actions → Monthly Retail AI Star Report → Run workflow**
+配置 Secrets 后，在仓库 **Actions → Weekly Retail AI Star Report → Run workflow**
 执行一次以建立首份基线。也可以用以下命令本地运行：
 
 ```bash

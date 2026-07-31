@@ -1,16 +1,16 @@
-name: Monthly Retail AI Star Report
+name: Weekly Retail AI Star Report
 
 on:
   schedule:
-    # 01:00 UTC = 09:00 Asia/Shanghai
-    - cron: "0 1 1 * *"
+    # 09:30 UTC = 17:30 Asia/Shanghai, every Friday
+    - cron: "30 9 * * 5"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: monthly-retail-ai-star-report
+  group: weekly-retail-ai-star-report
   cancel-in-progress: false
 
 jobs:
@@ -39,7 +39,7 @@ jobs:
           REPORT_RECIPIENT: 307149416@qq.com
         run: python report.py
 
-      - name: Commit monthly snapshot
+      - name: Commit weekly snapshot
         run: |
           git add data
           if git diff --cached --quiet; then
@@ -48,5 +48,5 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Record monthly Star snapshot"
+          git commit -m "Record weekly Star snapshot"
           git push

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build and email a monthly GitHub Star-growth report for retail multimodal AI."""
+"""Build and email a weekly GitHub Star-growth report for retail multimodal AI."""
 
 from __future__ import annotations
 
@@ -152,9 +152,9 @@ def render_html(
 ) -> str:
     if previous_path is None:
         return f"""
-        <h2>Retail AI GitHub Star 月报：基线已建立</h2>
+        <h2>Retail AI GitHub Star 周报：基线已建立</h2>
         <p>本次共发现并记录 {current_count} 个候选项目。</p>
-        <p>由于这是首次快照，尚无上月数据可计算增长量；下月开始发送 Top 10 排名。</p>
+        <p>由于这是首次快照，尚无上周数据可计算增长量；下周开始发送 Top 10 排名。</p>
         """
 
     rows = []
@@ -171,16 +171,16 @@ def render_html(
             f"<td>{language}</td>"
             "</tr>"
         )
-    table = "\n".join(rows) or '<tr><td colspan="5">本月没有可比较的项目。</td></tr>'
+    table = "\n".join(rows) or '<tr><td colspan="5">本周没有可比较的项目。</td></tr>'
     return f"""
-    <h2>Retail AI GitHub Star 月增长 Top 10</h2>
+    <h2>Retail AI GitHub Star 周增长 Top 10</h2>
     <p>候选项目：{current_count} 个；对比基线：{html.escape(previous_path.name)}。</p>
     <table style="border-collapse:collapse;width:100%" border="1" cellpadding="8">
       <thead><tr><th>#</th><th>项目</th><th>Star 增长</th><th>当前 Star</th><th>语言</th></tr></thead>
       <tbody>{table}</tbody>
     </table>
     <p><small>范围：多模态大模型、商超/门店巡检、零售视觉、货架与商品识别、电商理解。
-    排名为本次与上次月度快照之间的 Star 差值。</small></p>
+    排名为本次与上次周度快照之间的 Star 差值。</small></p>
     """
 
 
@@ -211,9 +211,9 @@ def main() -> int:
     write_snapshot(current)
     report = render_html(ranked, len(current), previous_path)
     subject = (
-        f"Retail AI GitHub Star 月报 | {date.today():%Y-%m}"
+        f"Retail AI GitHub Star 周报 | {date.today():%Y-%m-%d}"
         if previous_path
-        else f"Retail AI GitHub Star 追踪基线 | {date.today():%Y-%m}"
+        else f"Retail AI GitHub Star 追踪基线 | {date.today():%Y-%m-%d}"
     )
 
     if os.getenv("DRY_RUN") == "1":
