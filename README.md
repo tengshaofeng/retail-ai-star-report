@@ -20,7 +20,8 @@
 | `SMTP_USERNAME` | QQ 邮箱发件地址，例如 `307149416@qq.com` |
 | `SMTP_APP_PASSWORD` | QQ 邮箱 SMTP 授权码，不是 QQ 登录密码 |
 
-收件地址默认是 `307149416@qq.com`，可在工作流的 `REPORT_RECIPIENT` 中修改。
+报告会同时发送到 `307149416@qq.com` 和 `tengbaoqiang.tbq@intime.com.cn`，
+可在工作流的 `REPORT_RECIPIENT` 中修改收件人列表。
 
 需要先在 QQ 邮箱设置中开启 POP3/SMTP 或 IMAP/SMTP 服务并生成授权码。
 不要把密码或授权码提交到仓库。

@@ -36,7 +36,7 @@ jobs:
           SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
           SMTP_HOST: smtp.qq.com
           SMTP_PORT: "465"
-          REPORT_RECIPIENT: 307149416@qq.com
+          REPORT_RECIPIENT: "307149416@qq.com, tengbaoqiang.tbq@intime.com.cn"
         run: python report.py
 
       - name: Commit weekly snapshot
