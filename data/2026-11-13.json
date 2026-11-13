@@ -1,0 +1,4395 @@
+{
+  "captured_at": "2026-11-13T17:18:02.518997+00:00",
+  "query_count": 10,
+  "repository_count": 295,
+  "repositories": {
+    "AI-in-Transportation-Lab/awesome-mcp": {
+      "full_name": "AI-in-Transportation-Lab/awesome-mcp",
+      "url": "https://github.com/AI-in-Transportation-Lab/awesome-mcp",
+      "description": "A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Model Context Protocol (MCP) — a novel paradigm designed to enable modular, adaptive coordination between large language models (LLMs) and external tools or data contexts.",
+      "stars": 12,
+      "language": "JavaScript",
+      "topics": [
+        "mcp",
+        "model-context-protocol"
+      ]
+    },
+    "AJ-comp/Mythosia.AI": {
+      "full_name": "AJ-comp/Mythosia.AI",
+      "url": "https://github.com/AJ-comp/Mythosia.AI",
+      "description": "Unified .NET AI library with multi-provider support (OpenAI, Anthropic, Google, DeepSeek, Perplexity) and RAG extensions",
+      "stars": 20,
+      "language": "C#",
+      "topics": [
+        "ai",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "deepseek",
+        "dotnet",
+        "gemini",
+        "google",
+        "grok",
+        "llm",
+        "multi-provider",
+        "openai",
+        "rag",
+        "reranker",
+        "vectordb",
+        "xai"
+      ]
+    },
+    "Aaron617/agent-arXiv-daily": {
+      "full_name": "Aaron617/agent-arXiv-daily",
+      "url": "https://github.com/Aaron617/agent-arXiv-daily",
+      "description": "🔥 Automatically Update Agent Papers Daily",
+      "stars": 10,
+      "language": "Python",
+      "topics": []
+    },
+    "AaronCWacker/AI-UI-UX-JS": {
+      "full_name": "AaronCWacker/AI-UI-UX-JS",
+      "url": "https://github.com/AaronCWacker/AI-UI-UX-JS",
+      "description": "🏭 All.AI (719+ Apps Strong) AI-UI-UX-JS Apps w/ ThreeJS - AI Pair Programming and Co-Evolution of AI in JS, py, svg, html, glb, mp3, mp4",
+      "stars": 18,
+      "language": "HTML",
+      "topics": [
+        "claude",
+        "gamedev",
+        "gemini",
+        "gpt",
+        "grok",
+        "healthcare-ai",
+        "heygen",
+        "indiegame",
+        "mediapipe",
+        "medical-ai",
+        "meta",
+        "peerjs",
+        "runway",
+        "simulation",
+        "suno",
+        "tfjs",
+        "three-js",
+        "threejs",
+        "threejs-journey",
+        "vision"
+      ]
+    },
+    "Advantech-Containers/Advantech-YOLO-Vision-Applications": {
+      "full_name": "Advantech-Containers/Advantech-YOLO-Vision-Applications",
+      "url": "https://github.com/Advantech-Containers/Advantech-YOLO-Vision-Applications",
+      "description": "A toolkit for deploying optimized YOLOv8 vision applications container on Advantech edge AI devices with hardware acceleration. Designed specifically for Advantech edge AI devices based on NVIDIA Jetson platforms",
+      "stars": 5,
+      "language": "Python",
+      "topics": [
+        "advantech",
+        "cv-toolkit",
+        "edgeai-container",
+        "inference-advantech-edge-container",
+        "ultralytics-yolo",
+        "wise-edge"
+      ]
+    },
+    "AgibotTech/genie_sim": {
+      "full_name": "AgibotTech/genie_sim",
+      "url": "https://github.com/AgibotTech/genie_sim",
+      "description": "Simulation Platform from AgiBot",
+      "stars": 1603,
+      "language": "Python",
+      "topics": []
+    },
+    "Alan-K-Biju-7/waresys-mvp": {
+      "full_name": "Alan-K-Biju-7/waresys-mvp",
+      "url": "https://github.com/Alan-K-Biju-7/waresys-mvp",
+      "description": "Waresys (Warehouse & Inventory Management System) is a full-stack OCR-driven invoice processing and stock management platform built with FastAPI, Celery, PostgreSQL, Redis, and React. It automates the flow from invoice upload → OCR parsing → vendor & item detection → stock updates, offering a real-time dashboard for analytics and alerts.",
+      "stars": 7,
+      "language": "Python",
+      "topics": []
+    },
+    "Alijanloo/Retail-Shelf-Monitoring": {
+      "full_name": "Alijanloo/Retail-Shelf-Monitoring",
+      "url": "https://github.com/Alijanloo/Retail-Shelf-Monitoring",
+      "description": "A real-time Retail Shelf Monitoring System using computer vision and machine learning. Detects out-of-stock products, misplaced items, and ensures planogram compliance through intelligent video analytics and a desktop management interface.",
+      "stars": 17,
+      "language": "Python",
+      "topics": [
+        "computer-vision",
+        "faiss",
+        "machine-learning",
+        "object-detection",
+        "openvino",
+        "postgresql",
+        "pyside6",
+        "realtime-inference",
+        "redis",
+        "retail-analytics",
+        "tracking",
+        "yolo"
+      ]
+    },
+    "Always-On-Intelligence/awesome-always-on-personal-intelligence": {
+      "full_name": "Always-On-Intelligence/awesome-always-on-personal-intelligence",
+      "url": "https://github.com/Always-On-Intelligence/awesome-always-on-personal-intelligence",
+      "description": "Reading list for the survey Always-On Personal Intelligence: papers, benchmarks, and products on always-on personal AI assistants and LLM agents, covering proactive agents, agent memory, self-evolving agents, wearable AI and smart glasses, GUI and mobile agents, and home robots, organized by Sensing, Memory, and Action.",
+      "stars": 21,
+      "language": "Python",
+      "topics": [
+        "agent-memory",
+        "agentic-ai",
+        "ai-agents",
+        "ai-assistant",
+        "always-on",
+        "awesome",
+        "awesome-list",
+        "embodied-ai",
+        "gui-agent",
+        "llm-agents",
+        "paper-list",
+        "personal-ai",
+        "personal-assistant",
+        "proactive-agent",
+        "proactive-ai",
+        "self-evolving",
+        "self-evolving-agents",
+        "smart-glasses",
+        "survey",
+        "wearable-ai"
+      ]
+    },
+    "AnEntrypoint/awesome-github": {
+      "full_name": "AnEntrypoint/awesome-github",
+      "url": "https://github.com/AnEntrypoint/awesome-github",
+      "description": "awesome projects on github",
+      "stars": 22,
+      "language": "JavaScript",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "awesomeness"
+      ]
+    },
+    "Annaskhadafi/afivisionbuilder": {
+      "full_name": "Annaskhadafi/afivisionbuilder",
+      "url": "https://github.com/Annaskhadafi/afivisionbuilder",
+      "description": "AFI VISION BUILDER",
+      "stars": 115,
+      "language": "Python",
+      "topics": []
+    },
+    "AppitStudio/awesome-jev": {
+      "full_name": "AppitStudio/awesome-jev",
+      "url": "https://github.com/AppitStudio/awesome-jev",
+      "description": "Curated Jev resources and runnable examples for typed AI decisions.",
+      "stars": 115,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "decision-making",
+        "jev",
+        "system-one",
+        "typesafe-ai"
+      ]
+    },
+    "AtlasCloudAI/awesome-happy-horse-prompts": {
+      "full_name": "AtlasCloudAI/awesome-happy-horse-prompts",
+      "url": "https://github.com/AtlasCloudAI/awesome-happy-horse-prompts",
+      "description": "Awesome Happy Horse 1.0 Prompts",
+      "stars": 7,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "generative-ai",
+        "happy-horse",
+        "prompt-engineering",
+        "prompts",
+        "text-to-video",
+        "video-generation"
+      ]
+    },
+    "AtlasCloudAI/awesome-minimax-h3-prompts": {
+      "full_name": "AtlasCloudAI/awesome-minimax-h3-prompts",
+      "url": "https://github.com/AtlasCloudAI/awesome-minimax-h3-prompts",
+      "description": "Curated MiniMax H3 video prompts — official showcase cases (brand film, motion graphics, narrative, e-commerce, game, industrial) with real previews via Atlas Cloud. 20 languages.",
+      "stars": 74,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "AtlasCloudAI/awesome-seedance-2-prompts": {
+      "full_name": "AtlasCloudAI/awesome-seedance-2-prompts",
+      "url": "https://github.com/AtlasCloudAI/awesome-seedance-2-prompts",
+      "description": "awesome-seedance-2-prompt",
+      "stars": 11,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "generative-ai",
+        "prompt-engineering",
+        "prompts",
+        "seedance",
+        "seedance-2",
+        "text-to-video",
+        "video-generation"
+      ]
+    },
+    "AtlasCloudAI/awesome-seedance-2.5-prompts-skills": {
+      "full_name": "AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+      "url": "https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills",
+      "description": "100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, creates storyboards, and generates videos via Seedance models.",
+      "stars": 268,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "ai-video",
+        "artificial-intelligence",
+        "awesome-list",
+        "bytedance",
+        "generative-ai",
+        "image-to-video",
+        "multimodal",
+        "prompt-engineering",
+        "prompts",
+        "seedance",
+        "text-to-video",
+        "video-editing",
+        "video-generation"
+      ]
+    },
+    "AutoGeoAI4Sci/awesome-autonomous-geoai": {
+      "full_name": "AutoGeoAI4Sci/awesome-autonomous-geoai",
+      "url": "https://github.com/AutoGeoAI4Sci/awesome-autonomous-geoai",
+      "description": "A curated list of resources on autonomous GeoAI and AI4Science.",
+      "stars": 22,
+      "language": "",
+      "topics": []
+    },
+    "BinHPdev/awesome-algorithm-auto-tools": {
+      "full_name": "BinHPdev/awesome-algorithm-auto-tools",
+      "url": "https://github.com/BinHPdev/awesome-algorithm-auto-tools",
+      "description": "A curated collection of tools and frameworks for AI-driven automated model training — AutoResearch, HuggingFace Skills, AutoML, Self-Play, and more.",
+      "stars": 13,
+      "language": "Shell",
+      "topics": []
+    },
+    "Blake-Jiang/ad-arxiv-daily": {
+      "full_name": "Blake-Jiang/ad-arxiv-daily",
+      "url": "https://github.com/Blake-Jiang/ad-arxiv-daily",
+      "description": "Daily tracking and organizing the latest arXiv papers in the field of autonomous driving (AD)",
+      "stars": 58,
+      "language": "Python",
+      "topics": []
+    },
+    "BlockRunAI/awesome-OpenClaw-Money-Maker": {
+      "full_name": "BlockRunAI/awesome-OpenClaw-Money-Maker",
+      "url": "https://github.com/BlockRunAI/awesome-OpenClaw-Money-Maker",
+      "description": "🦞💰 Curated list of ways to make money with OpenClaw - automations, skills, services, and strategies",
+      "stars": 378,
+      "language": "JavaScript",
+      "topics": [
+        "awesome-list",
+        "mcp"
+      ]
+    },
+    "BrenchCC/Awesome-LLM-Research-Collections": {
+      "full_name": "BrenchCC/Awesome-LLM-Research-Collections",
+      "url": "https://github.com/BrenchCC/Awesome-LLM-Research-Collections",
+      "description": "Record interesting and meaningful papers and repositories seen daily.",
+      "stars": 18,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "llm",
+        "vlm"
+      ]
+    },
+    "ChanCheeKean/DecodeAI": {
+      "full_name": "ChanCheeKean/DecodeAI",
+      "url": "https://github.com/ChanCheeKean/DecodeAI",
+      "description": "",
+      "stars": 86,
+      "language": "Jupyter Notebook",
+      "topics": []
+    },
+    "Chieler/Summer-2027-SWE-Internships": {
+      "full_name": "Chieler/Summer-2027-SWE-Internships",
+      "url": "https://github.com/Chieler/Summer-2027-SWE-Internships",
+      "description": "2027 Internship repo",
+      "stars": 30,
+      "language": "Python",
+      "topics": []
+    },
+    "ChunkyPanda29/ComfyUI-Pollinations-BYOP": {
+      "full_name": "ChunkyPanda29/ComfyUI-Pollinations-BYOP",
+      "url": "https://github.com/ChunkyPanda29/ComfyUI-Pollinations-BYOP",
+      "description": "The latest ComfyUI custom node for Pollinations.ai with BYOP (Bring Your Own Pollen) support for free and paid image, video and text generation.",
+      "stars": 5,
+      "language": "Python",
+      "topics": []
+    },
+    "Code2Collapse/ComfyUI-CustomNodePacks": {
+      "full_name": "Code2Collapse/ComfyUI-CustomNodePacks",
+      "url": "https://github.com/Code2Collapse/ComfyUI-CustomNodePacks",
+      "description": "Experimental nodes! This is a production suite for ComfyUI — SAM2.1/SAM3 segmentation, alpha matting, inpaint crop/stitch, VFX tools (EXR I/O, LUTs, render passes), video mask propagation, temporal anchors, VAE merging, spline editors, and auto-versioned output.",
+      "stars": 59,
+      "language": "Python",
+      "topics": []
+    },
+    "ColugoMum/Dataset": {
+      "full_name": "ColugoMum/Dataset",
+      "url": "https://github.com/ColugoMum/Dataset",
+      "description": ":sparkles:SKU级别的商品图像数据集汇总",
+      "stars": 91,
+      "language": "",
+      "topics": [
+        "datasets",
+        "deep-learning",
+        "image-recognition"
+      ]
+    },
+    "ColugoMum/Goods_Recognition": {
+      "full_name": "ColugoMum/Goods_Recognition",
+      "url": "https://github.com/ColugoMum/Goods_Recognition",
+      "description": "基于PP-ShiTu进行图像识别的训练、部署全流程教程",
+      "stars": 29,
+      "language": "Jupyter Notebook",
+      "topics": []
+    },
+    "Correia-jpv/fucking-awesome-ai-tools": {
+      "full_name": "Correia-jpv/fucking-awesome-ai-tools",
+      "url": "https://github.com/Correia-jpv/fucking-awesome-ai-tools",
+      "description": "A curated list of Artificial Intelligence Top Tools. With repository stars⭐ and forks🍴",
+      "stars": 29,
+      "language": "",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "ai-tools",
+        "ai-tools-list",
+        "ai-top-tools",
+        "awesome",
+        "awesome-ai",
+        "awesome-ai-tools",
+        "awesome-list",
+        "bestofai",
+        "easywithai",
+        "future-tolls",
+        "machine-learning",
+        "ml",
+        "mlops",
+        "top-ai-tools"
+      ]
+    },
+    "Correia-jpv/fucking-lists": {
+      "full_name": "Correia-jpv/fucking-lists",
+      "url": "https://github.com/Correia-jpv/fucking-lists",
+      "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere. With repository stars⭐ and forks🍴",
+      "stars": 37,
+      "language": "",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "curated-collections",
+        "curated-list",
+        "curated-lists",
+        "list",
+        "lists",
+        "resources"
+      ]
+    },
+    "DeanZFC/sub2api-custom": {
+      "full_name": "DeanZFC/sub2api-custom",
+      "url": "https://github.com/DeanZFC/sub2api-custom",
+      "description": "基于 Sub2API 的非官方可扩展衍生版。",
+      "stars": 20,
+      "language": "Go",
+      "topics": [
+        "api-gateway",
+        "codex",
+        "docker",
+        "openai",
+        "postgresql",
+        "quota-management",
+        "redis",
+        "sub2api"
+      ]
+    },
+    "DeprecatedLuke/oh-my-singularity": {
+      "full_name": "DeprecatedLuke/oh-my-singularity",
+      "url": "https://github.com/DeprecatedLuke/oh-my-singularity",
+      "description": "A task based orchestration TUI for oh-my-pi agent harness enabling highly parallel agentic development.",
+      "stars": 26,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "DereC4/internships-and-newgrad": {
+      "full_name": "DereC4/internships-and-newgrad",
+      "url": "https://github.com/DereC4/internships-and-newgrad",
+      "description": "I used this during college, to save time, so maybe it will help you too! My own aggregated, deduplicated list of 2027-2028 Tech Internships and New Grad positions. ",
+      "stars": 137,
+      "language": "Go",
+      "topics": [
+        "college",
+        "computer-science",
+        "cs-internship",
+        "data-science",
+        "hiring",
+        "intern",
+        "internship",
+        "internships",
+        "interviews",
+        "job",
+        "job-search",
+        "jobs",
+        "recruiting",
+        "software-internships",
+        "summer-2027",
+        "summer-internship",
+        "swe",
+        "swe-internships",
+        "university",
+        "ut-austin"
+      ]
+    },
+    "DirtyHarryLYL/LLM-in-Vision": {
+      "full_name": "DirtyHarryLYL/LLM-in-Vision",
+      "url": "https://github.com/DirtyHarryLYL/LLM-in-Vision",
+      "description": "Recent LLM-based CV and related works. Welcome to comment/contribute!",
+      "stars": 871,
+      "language": "",
+      "topics": []
+    },
+    "DoongLi/Awesome-Scene-Change-Detection": {
+      "full_name": "DoongLi/Awesome-Scene-Change-Detection",
+      "url": "https://github.com/DoongLi/Awesome-Scene-Change-Detection",
+      "description": "This repo contains a curative list of scene change detection(SCD), including papers, videos, codes, and related websites.",
+      "stars": 170,
+      "language": "",
+      "topics": [
+        "awesome",
+        "change-detection",
+        "scene-change-detection"
+      ]
+    },
+    "FengxianJi/The-Library-of-AI-Scientist": {
+      "full_name": "FengxianJi/The-Library-of-AI-Scientist",
+      "url": "https://github.com/FengxianJi/The-Library-of-AI-Scientist",
+      "description": "Over the next month, we will implement the comprehensive paper retrieval and organization system to make this AI-Scientist agent project more concrete.",
+      "stars": 15,
+      "language": "Python",
+      "topics": []
+    },
+    "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics": {
+      "full_name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+      "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+      "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model named for every case",
+      "stars": 93,
+      "language": "",
+      "topics": [
+        "3d-modeling",
+        "ai-for-design",
+        "awesome-list",
+        "cad",
+        "computational-design",
+        "llm",
+        "robotics"
+      ]
+    },
+    "FurkanGozukara/FurkanGozukara": {
+      "full_name": "FurkanGozukara/FurkanGozukara",
+      "url": "https://github.com/FurkanGozukara/FurkanGozukara",
+      "description": "Who is Dr. Furkan Gözükara",
+      "stars": 16,
+      "language": "Python",
+      "topics": []
+    },
+    "Glucksberg/cristalina-v4": {
+      "full_name": "Glucksberg/cristalina-v4",
+      "url": "https://github.com/Glucksberg/cristalina-v4",
+      "description": "Governed memory kernel for AI agents: native Hermes provider, semantic maturation, auditable canon/wiki, and OpenClaw/Hermes integration.",
+      "stars": 9,
+      "language": "TypeScript",
+      "topics": [
+        "agent-memory",
+        "ai-memory",
+        "governed-memory",
+        "hermes-agent",
+        "knowledge-graph",
+        "llm-memory",
+        "memory-architecture",
+        "openclaw",
+        "typescript"
+      ]
+    },
+    "GoogleCloudPlatform/ai-ml-recipes": {
+      "full_name": "GoogleCloudPlatform/ai-ml-recipes",
+      "url": "https://github.com/GoogleCloudPlatform/ai-ml-recipes",
+      "description": "AI/ML Recipes for Vertex AI, Serverless Spark and BigQuery open-source project is an effort to jumpstart your development of data processing and machine learning notebooks using VertexAI, BigQuery and Dataproc's distributed processing capabilities.",
+      "stars": 84,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "bigframes",
+        "bigquery",
+        "bigquery-ml",
+        "dataproc",
+        "gemini",
+        "google",
+        "google-cloud",
+        "spark",
+        "vertex-ai"
+      ]
+    },
+    "HaFred/awesome-generative-recsys": {
+      "full_name": "HaFred/awesome-generative-recsys",
+      "url": "https://github.com/HaFred/awesome-generative-recsys",
+      "description": "An automatic refreshing \"awesome\" paper list for the generative recommendation systems. Updated everyday at 11PM GMT+8, warm and fresh since '26",
+      "stars": 31,
+      "language": "",
+      "topics": []
+    },
+    "Htet-ThuAung/sku110k-yolov8-shelf-detector": {
+      "full_name": "Htet-ThuAung/sku110k-yolov8-shelf-detector",
+      "url": "https://github.com/Htet-ThuAung/sku110k-yolov8-shelf-detector",
+      "description": "Real-time retail shelf-item detection and counting using YOLOv8 and FastAPI, trained on the SKU110K dataset.",
+      "stars": 5,
+      "language": "Jupyter Notebook",
+      "topics": []
+    },
+    "IEEEAtCornell/2026-ECE-Internships": {
+      "full_name": "IEEEAtCornell/2026-ECE-Internships",
+      "url": "https://github.com/IEEEAtCornell/2026-ECE-Internships",
+      "description": "",
+      "stars": 24,
+      "language": "Python",
+      "topics": []
+    },
+    "Ibtasam-Ahmad/zero-to-ai-engineer": {
+      "full_name": "Ibtasam-Ahmad/zero-to-ai-engineer",
+      "url": "https://github.com/Ibtasam-Ahmad/zero-to-ai-engineer",
+      "description": "",
+      "stars": 5,
+      "language": "Jupyter Notebook",
+      "topics": []
+    },
+    "Infrasity-Labs/awesome-developer-conferences": {
+      "full_name": "Infrasity-Labs/awesome-developer-conferences",
+      "url": "https://github.com/Infrasity-Labs/awesome-developer-conferences",
+      "description": "A daily updated directory of developer, DevRel, cloud native, and platform engineering conferences taking place all over the world, separated by regions. It is an open source repository covering B2B SaaS, DevOps, and API events with dates, formats, and registration links.",
+      "stars": 74,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "call-for-papers",
+        "cfp",
+        "cloud-native",
+        "conferences",
+        "developer-marketing",
+        "developer-relations",
+        "devops",
+        "devrel",
+        "devtools",
+        "events",
+        "open-source",
+        "platform-engineering",
+        "public-speaking",
+        "sdg-8",
+        "sdg-9",
+        "software-engineering",
+        "sponsorship",
+        "tech-conferences"
+      ]
+    },
+    "Jack-cky/SupermarketScanner": {
+      "full_name": "Jack-cky/SupermarketScanner",
+      "url": "https://github.com/Jack-cky/SupermarketScanner",
+      "description": "An AI camera system that streamlines the checkout process and helps prevent shoplifting at supermarket self-checkout counters.",
+      "stars": 27,
+      "language": "Python",
+      "topics": [
+        "object-detection",
+        "shoplifting-prevention",
+        "supermarket"
+      ]
+    },
+    "Jev-Engineering/cookbook": {
+      "full_name": "Jev-Engineering/cookbook",
+      "url": "https://github.com/Jev-Engineering/cookbook",
+      "description": "Sixty notebook recipes for typed decisions with Jev: Choice, Noul and Score patterns from a first classification to closed-loop control",
+      "stars": 30,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "cookbook",
+        "jev",
+        "jupyter-notebook",
+        "python",
+        "system-one",
+        "tutorials",
+        "typed-decisions",
+        "typesafe"
+      ]
+    },
+    "Jianqiuer/Awesome6DPoseEstimation": {
+      "full_name": "Jianqiuer/Awesome6DPoseEstimation",
+      "url": "https://github.com/Jianqiuer/Awesome6DPoseEstimation",
+      "description": "",
+      "stars": 319,
+      "language": "Python",
+      "topics": []
+    },
+    "Jingchensun/Awesome-Multimodal-OPD": {
+      "full_name": "Jingchensun/Awesome-Multimodal-OPD",
+      "url": "https://github.com/Jingchensun/Awesome-Multimodal-OPD",
+      "description": "Recent Advances in On-Policy Distillation for Multimodal LLMs",
+      "stars": 44,
+      "language": "HTML",
+      "topics": []
+    },
+    "JiwenJ/Awesome-LLM-Tech-Report": {
+      "full_name": "JiwenJ/Awesome-LLM-Tech-Report",
+      "url": "https://github.com/JiwenJ/Awesome-LLM-Tech-Report",
+      "description": "A curated list of technical reports from large language models and foundation models, covering LLMs, multimodal, speech, video, robotics and training infrastructure.",
+      "stars": 7,
+      "language": "",
+      "topics": []
+    },
+    "K-saif/Empty-Shelf-Alert-System": {
+      "full_name": "K-saif/Empty-Shelf-Alert-System",
+      "url": "https://github.com/K-saif/Empty-Shelf-Alert-System",
+      "description": "Real-time YOLO11-based empty shelf detection and analytics with interval inference for cameras and retail dashboards.",
+      "stars": 6,
+      "language": "Python",
+      "topics": [
+        "empty-space-calculation",
+        "empty-space-detection",
+        "object-detection",
+        "product-detection",
+        "retail-shop",
+        "shelf-row-counting",
+        "supermarket",
+        "ultralytics",
+        "yolo"
+      ]
+    },
+    "Kanishka-K07/Visionvend": {
+      "full_name": "Kanishka-K07/Visionvend",
+      "url": "https://github.com/Kanishka-K07/Visionvend",
+      "description": "",
+      "stars": 21,
+      "language": "JavaScript",
+      "topics": []
+    },
+    "Labellerr/Hands-On-Learning-in-Computer-Vision": {
+      "full_name": "Labellerr/Hands-On-Learning-in-Computer-Vision",
+      "url": "https://github.com/Labellerr/Hands-On-Learning-in-Computer-Vision",
+      "description": "Hands-On Learning in Computer Vision",
+      "stars": 600,
+      "language": "Jupyter Notebook",
+      "topics": []
+    },
+    "Leeroo-AI/kapso": {
+      "full_name": "Leeroo-AI/kapso",
+      "url": "https://github.com/Leeroo-AI/kapso",
+      "description": "Kapso by Leeroo: an engine that runs experiments toward an objective, deploys the best solution on your stack and learns from every run into a bank of lessons with a credence score and a boundary. First on RelBench and ALE-Bench, top open-source on MLE-Bench, above every human contestant at IOAI 2026.",
+      "stars": 211,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ale-bench",
+        "autoresearch",
+        "continual-learning",
+        "deployment",
+        "experimentation",
+        "harness",
+        "ioai",
+        "llm-agents",
+        "machine-learning",
+        "mle-bench",
+        "optimization",
+        "relbench"
+      ]
+    },
+    "LikeACloud7/awesome-frontier-ai-papers": {
+      "full_name": "LikeACloud7/awesome-frontier-ai-papers",
+      "url": "https://github.com/LikeACloud7/awesome-frontier-ai-papers",
+      "description": "Daily tracker for frontier AI lab papers, model cards, system cards, and technical reports",
+      "stars": 14,
+      "language": "Python",
+      "topics": [
+        "ai-papers",
+        "alibaba-qwen",
+        "amazon",
+        "anthropic",
+        "apple",
+        "baidu",
+        "bytedance-seed",
+        "deepseek",
+        "google-deepmind",
+        "huawei-noah",
+        "meta-fair",
+        "microsoft",
+        "minimax",
+        "moonshot-kimi",
+        "nvidia",
+        "openai",
+        "stepfun",
+        "tencent-hunyuan",
+        "xai",
+        "zhipu-ai"
+      ]
+    },
+    "LowEntropyAI/awesome-proactive-agent": {
+      "full_name": "LowEntropyAI/awesome-proactive-agent",
+      "url": "https://github.com/LowEntropyAI/awesome-proactive-agent",
+      "description": "A curated collection of proactive AI agents and assistants, spanning personal agents, streaming multimodal interaction, and domain-specific assistance.",
+      "stars": 83,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "awesome-list",
+        "computer-human-interaction",
+        "multimodal",
+        "personal-agent",
+        "proactive",
+        "streaming"
+      ]
+    },
+    "Lyz103/LLM-Agent-Paper-daily": {
+      "full_name": "Lyz103/LLM-Agent-Paper-daily",
+      "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily",
+      "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
+      "stars": 20,
+      "language": "Python",
+      "topics": [
+        "llm",
+        "llm-agent"
+      ]
+    },
+    "ManUtopiK/awesome-stars": {
+      "full_name": "ManUtopiK/awesome-stars",
+      "url": "https://github.com/ManUtopiK/awesome-stars",
+      "description": "⭑ A curated list of my GitHub stars! ⭑",
+      "stars": 49,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "stargazers",
+        "stars"
+      ]
+    },
+    "Manavarya09/public-apis-live": {
+      "full_name": "Manavarya09/public-apis-live",
+      "url": "https://github.com/Manavarya09/public-apis-live",
+      "description": "Every public API in one place — aggregated, deduped, and auto-checked for reachability. Refreshed daily. npm + Claude plugin + live search.",
+      "stars": 157,
+      "language": "TypeScript",
+      "topics": [
+        "api",
+        "api-list",
+        "apis",
+        "claude",
+        "developer-tools",
+        "free-apis",
+        "mcp",
+        "nextjs",
+        "npm-package",
+        "public-apis"
+      ]
+    },
+    "Mengqi-Lei/awesome-object-counting": {
+      "full_name": "Mengqi-Lei/awesome-object-counting",
+      "url": "https://github.com/Mengqi-Lei/awesome-object-counting",
+      "description": "Awesome object counting papers, datasets, leaderboards and tutorials.",
+      "stars": 9,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "computer-vision",
+        "multimodal",
+        "object-counting",
+        "vision-language-model"
+      ]
+    },
+    "Mephisto1122/mevin": {
+      "full_name": "Mephisto1122/mevin",
+      "url": "https://github.com/Mephisto1122/mevin",
+      "description": "Real-time situational video understanding — private, local, open-source.",
+      "stars": 28,
+      "language": "Python",
+      "topics": []
+    },
+    "Mrpachimari0704/MidState-Yolo": {
+      "full_name": "Mrpachimari0704/MidState-Yolo",
+      "url": "https://github.com/Mrpachimari0704/MidState-Yolo",
+      "description": "Midstate-YOLO is a YOLO variant with improved recognition speed and detection accuracy.",
+      "stars": 434,
+      "language": "Python",
+      "topics": []
+    },
+    "NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment": {
+      "full_name": "NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment",
+      "description": "A GenAI-powered catalog enrichment system that transforms basic product images into comprehensive, rich catalog",
+      "stars": 47,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "catalog",
+        "diffusion-models",
+        "genai",
+        "llm",
+        "nemotron",
+        "vlm"
+      ]
+    },
+    "NVIDIA-NeMo/Gym": {
+      "full_name": "NVIDIA-NeMo/Gym",
+      "url": "https://github.com/NVIDIA-NeMo/Gym",
+      "description": "Evaluate and improve models and agents using environments",
+      "stars": 1330,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "benchmarks",
+        "environments",
+        "evaluation",
+        "gym",
+        "llm",
+        "reinforcement-learning",
+        "reinforcement-learning-environments",
+        "rl-environment",
+        "rl-training"
+      ]
+    },
+    "Nicolas99-9/llm-agent-simulation-papers": {
+      "full_name": "Nicolas99-9/llm-agent-simulation-papers",
+      "url": "https://github.com/Nicolas99-9/llm-agent-simulation-papers",
+      "description": "Daily curated arXiv papers on LLM agent simulation, multi-agent systems, city/society simulation, and agent training & alignment. Auto-updated feed classified by Claude.",
+      "stars": 18,
+      "language": "",
+      "topics": [
+        "agent-based-modeling",
+        "agent-simulation",
+        "ai-alignment",
+        "ai-research",
+        "artificial-intelligence",
+        "arxiv",
+        "arxiv-papers",
+        "awesome-list",
+        "bedrock",
+        "city-simulation",
+        "claude",
+        "daily-papers",
+        "generative-agents",
+        "llm",
+        "llm-agent-simulation",
+        "llm-agents",
+        "multi-agent-systems",
+        "paper-list",
+        "research-papers",
+        "rlhf"
+      ]
+    },
+    "OSSDrop/OSSDrop": {
+      "full_name": "OSSDrop/OSSDrop",
+      "url": "https://github.com/OSSDrop/OSSDrop",
+      "description": "Discover and launch open-source software. OSSDrop is a community-curated Product Hunt alternative where developers share projects, find tools, vote, and discuss.",
+      "stars": 111,
+      "language": "Python",
+      "topics": [
+        "awesome-list",
+        "community-directory",
+        "curated-list",
+        "developer-tools",
+        "directory",
+        "open-source",
+        "open-source-projects",
+        "opensource-projects",
+        "oss",
+        "ossdrop",
+        "product-hunt-alternatives",
+        "project-showcase"
+      ]
+    },
+    "OpenBMB/MiniCPM-V-Apps": {
+      "full_name": "OpenBMB/MiniCPM-V-Apps",
+      "url": "https://github.com/OpenBMB/MiniCPM-V-Apps",
+      "description": "MiniCPM-V apps — fully offline multimodal chat on iOS / Android / HarmonyOS",
+      "stars": 521,
+      "language": "Swift",
+      "topics": [
+        "android",
+        "harmonyos",
+        "ios",
+        "minicpm",
+        "minicpm-v"
+      ]
+    },
+    "ParallelDots/generic-sku-detection-benchmark": {
+      "full_name": "ParallelDots/generic-sku-detection-benchmark",
+      "url": "https://github.com/ParallelDots/generic-sku-detection-benchmark",
+      "description": "Benchmark and Leaderboard for Generic SKU Detection",
+      "stars": 51,
+      "language": "",
+      "topics": []
+    },
+    "Persdre/awesome-llm-human-simulation": {
+      "full_name": "Persdre/awesome-llm-human-simulation",
+      "url": "https://github.com/Persdre/awesome-llm-human-simulation",
+      "description": "[ICLR 2025] LLM Simulating Humanity Papers https://arxiv.org/abs/2501.08579",
+      "stars": 173,
+      "language": "",
+      "topics": []
+    },
+    "Picovoice/pico-cookbook": {
+      "full_name": "Picovoice/pico-cookbook",
+      "url": "https://github.com/Picovoice/pico-cookbook",
+      "description": "On-device AI recipes for building private, real-time applications with production-grade voice, language, and vision SDKs. Ready-to-use, open-source code examples.",
+      "stars": 118,
+      "language": "C",
+      "topics": [
+        "android",
+        "edge-ai",
+        "edge-ai-agents",
+        "ios",
+        "language-model",
+        "language-models",
+        "linux",
+        "macos",
+        "mcu",
+        "multimodal-ai",
+        "on-device-ai",
+        "on-device-deep-learning",
+        "on-device-language-model",
+        "on-device-voice-recognition",
+        "raspberry-pi",
+        "tinyml",
+        "vision-language-model",
+        "voice-ai",
+        "wasm",
+        "windows"
+      ]
+    },
+    "Ponkux/DailyArXiv-cp": {
+      "full_name": "Ponkux/DailyArXiv-cp",
+      "url": "https://github.com/Ponkux/DailyArXiv-cp",
+      "description": "copied from https://github.com/zezhishao/DailyArXiv",
+      "stars": 6,
+      "language": "Python",
+      "topics": []
+    },
+    "Premchand006/awesome-physical-ai": {
+      "full_name": "Premchand006/awesome-physical-ai",
+      "url": "https://github.com/Premchand006/awesome-physical-ai",
+      "description": "Vendor-neutral field guide to Physical AI: edge-AI chips & NPUs (Jetson, Hailo, Qualcomm, Intel, Axelera), precision-labeled hardware comparisons, VLA & world models, robotics applications",
+      "stars": 6,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-accelerator",
+        "awesome",
+        "chips",
+        "hailo",
+        "humanoid-robots",
+        "intel",
+        "jetson",
+        "lerobot",
+        "machine-learning",
+        "npu",
+        "nvidia",
+        "openvino",
+        "physical-ai",
+        "qualcomm",
+        "robotics",
+        "technology",
+        "vision-language-action",
+        "vla",
+        "world-models"
+      ]
+    },
+    "PrinceArora-4/smart-trolley": {
+      "full_name": "PrinceArora-4/smart-trolley",
+      "url": "https://github.com/PrinceArora-4/smart-trolley",
+      "description": "A computer vision–powered smart self-checkout system that combines YOLOv11 for real-time product detection and Flask for a seamless, interactive billing interface — designed to revolutionize the retail experience.",
+      "stars": 7,
+      "language": "Python",
+      "topics": [
+        "computer-vision",
+        "custom-dataset",
+        "flask",
+        "html",
+        "image-preprocessing",
+        "javascript",
+        "jquery",
+        "machine-learning",
+        "object-detection",
+        "opencv",
+        "python",
+        "real-time",
+        "roboflow",
+        "self-checkout",
+        "smart-trolley",
+        "tailwindcss",
+        "toastr",
+        "ultralytics",
+        "yolov11"
+      ]
+    },
+    "QwenAudio/qwen-audio-agent": {
+      "full_name": "QwenAudio/qwen-audio-agent",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "stars": 3221,
+      "language": "JavaScript",
+      "topics": [
+        "acp",
+        "agent",
+        "agentic-ai",
+        "ai-coding",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "opencode",
+        "speech-recognition",
+        "text-to-speech",
+        "voice-agent",
+        "voice-ai",
+        "voice-chat"
+      ]
+    },
+    "R0U5/Reforge": {
+      "full_name": "R0U5/Reforge",
+      "url": "https://github.com/R0U5/Reforge",
+      "description": "A modular LoRA fine-tuning pipeline for Hugging Face models with built-in data cleaning, smart early stopping, automatic mode detection, and cross-platform support.",
+      "stars": 5,
+      "language": "Python",
+      "topics": [
+        "fine-tuning",
+        "huggingface",
+        "llm",
+        "local-ai",
+        "lora",
+        "machine-learning",
+        "phi-2",
+        "python"
+      ]
+    },
+    "Rodert/awesome-mcp": {
+      "full_name": "Rodert/awesome-mcp",
+      "url": "https://github.com/Rodert/awesome-mcp",
+      "description": "A curated list of MCP servers and related resources.",
+      "stars": 19,
+      "language": "Python",
+      "topics": []
+    },
+    "Sara12-2/Sara12-2": {
+      "full_name": "Sara12-2/Sara12-2",
+      "url": "https://github.com/Sara12-2/Sara12-2",
+      "description": "Sara Manzoor's GitHub Profile — A modern, animated README showcasing a 4.0 CGPA CS student, Full-Stack Developer (Flask + MySQL), and AI/ML Engineer with 30+ certifications and live GitHub stats.",
+      "stars": 15,
+      "language": "",
+      "topics": [
+        "achievements",
+        "certificates",
+        "internships",
+        "my-introduction",
+        "projects",
+        "skills"
+      ]
+    },
+    "Sara12-2/Smart_Retail_Shelf_Monitoring_with_YOLOv8": {
+      "full_name": "Sara12-2/Smart_Retail_Shelf_Monitoring_with_YOLOv8",
+      "url": "https://github.com/Sara12-2/Smart_Retail_Shelf_Monitoring_with_YOLOv8",
+      "description": "This project uses YOLOv8 for real-time retail shelf monitoring by detecting and counting products from video feeds. It provides live inventory tracking, low-stock alerts, and a user-friendly Tkinter dashboard for efficient retail management.",
+      "stars": 7,
+      "language": "Python",
+      "topics": [
+        "computer-vision",
+        "opencv",
+        "pillow",
+        "python",
+        "tkinter",
+        "ultralytics",
+        "yolov8"
+      ]
+    },
+    "Shawon5030/Computer-Vision": {
+      "full_name": "Shawon5030/Computer-Vision",
+      "url": "https://github.com/Shawon5030/Computer-Vision",
+      "description": "Welcome to the CV Projects repository! Dive into the world of computer vision with a curated collection of projects showcasing face detection, object recognition, image classification, and more.",
+      "stars": 9,
+      "language": "Jupyter Notebook",
+      "topics": []
+    },
+    "SimplifyJobs/Summer2027-Internships": {
+      "full_name": "SimplifyJobs/Summer2027-Internships",
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "stars": 48409,
+      "language": "Python",
+      "topics": [
+        "data-science",
+        "fall-2026",
+        "github",
+        "internship",
+        "internships",
+        "interview-preparation",
+        "jobs",
+        "software-engineering",
+        "university"
+      ]
+    },
+    "Soebb/awesome-stars": {
+      "full_name": "Soebb/awesome-stars",
+      "url": "https://github.com/Soebb/awesome-stars",
+      "description": "My favorite list of github repositories (mostly python)",
+      "stars": 5,
+      "language": "",
+      "topics": []
+    },
+    "Sri-Krishna-V/awesome-adk-agents": {
+      "full_name": "Sri-Krishna-V/awesome-adk-agents",
+      "url": "https://github.com/Sri-Krishna-V/awesome-adk-agents",
+      "description": "Curated collection of AI agents built with Google’s Agent Development Kit (ADK): templates, best practices, and production-ready examples for research, business, automation, education, and more.",
+      "stars": 352,
+      "language": "Python",
+      "topics": [
+        "adk",
+        "adk-python",
+        "adk-web",
+        "agent-samples",
+        "agentic-ai",
+        "agents",
+        "awesome",
+        "awesome-list",
+        "gemini-ai",
+        "google-adk",
+        "multi-agent-systems",
+        "templates"
+      ]
+    },
+    "SuDIS-ZJU/Data-Quality-for-Vision-Language-Models": {
+      "full_name": "SuDIS-ZJU/Data-Quality-for-Vision-Language-Models",
+      "url": "https://github.com/SuDIS-ZJU/Data-Quality-for-Vision-Language-Models",
+      "description": "",
+      "stars": 35,
+      "language": "",
+      "topics": []
+    },
+    "Sumanth077/Hands-On-AI-Engineering": {
+      "full_name": "Sumanth077/Hands-On-AI-Engineering",
+      "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
+      "description": "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.",
+      "stars": 4100,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "generative-ai",
+        "llms",
+        "mcp",
+        "ocr",
+        "python",
+        "rag"
+      ]
+    },
+    "Tar-ive/ML_Newgrad_2027": {
+      "full_name": "Tar-ive/ML_Newgrad_2027",
+      "url": "https://github.com/Tar-ive/ML_Newgrad_2027",
+      "description": "2027 ML new graduate job list updated hourly",
+      "stars": 6,
+      "language": "Python",
+      "topics": [
+        "applications",
+        "coderpad",
+        "fulltime",
+        "jobs",
+        "ml-engineering",
+        "newgrad",
+        "newgrad-roles",
+        "position",
+        "posting",
+        "software-engineering",
+        "univerisity"
+      ]
+    },
+    "Tavish9/awesome-daily-AI-arxiv": {
+      "full_name": "Tavish9/awesome-daily-AI-arxiv",
+      "url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+      "description": "🚀 Daily AI Research Digest: Tracking breakthroughs in AI/NLP/CV/Robotics with dynamic updates and paper navigation.",
+      "stars": 125,
+      "language": "Python",
+      "topics": [
+        "academic-paper",
+        "artificial-intelligence",
+        "arxiv",
+        "arxiv-papers",
+        "paper-digest",
+        "research-tools"
+      ]
+    },
+    "Technetium1/stars": {
+      "full_name": "Technetium1/stars",
+      "url": "https://github.com/Technetium1/stars",
+      "description": "My stars. View raw for full list.",
+      "stars": 7,
+      "language": "",
+      "topics": []
+    },
+    "TheoXiong7/Summer-2027-SWE-Internships": {
+      "full_name": "TheoXiong7/Summer-2027-SWE-Internships",
+      "url": "https://github.com/TheoXiong7/Summer-2027-SWE-Internships",
+      "description": "Summer 2027 software engineering internships, updated every 2 hours, with an H-1B sponsorship label on every role. From swejoblists.com.",
+      "stars": 123,
+      "language": "",
+      "topics": [
+        "2027",
+        "h1b",
+        "internship",
+        "internships",
+        "jobs",
+        "software-engineering",
+        "summer-2027",
+        "summer-2027-internships",
+        "swe"
+      ]
+    },
+    "Thomashighbaugh/stars": {
+      "full_name": "Thomashighbaugh/stars",
+      "url": "https://github.com/Thomashighbaugh/stars",
+      "description": "A curated list of my GitHub stars!",
+      "stars": 23,
+      "language": "",
+      "topics": [
+        "github",
+        "repositories",
+        "repository",
+        "star",
+        "starred",
+        "starred-repositories"
+      ]
+    },
+    "ThreeSR/Awesome-Inference-Time-Scaling": {
+      "full_name": "ThreeSR/Awesome-Inference-Time-Scaling",
+      "url": "https://github.com/ThreeSR/Awesome-Inference-Time-Scaling",
+      "description": "Paper List of Inference/Test Time Scaling/Computing",
+      "stars": 407,
+      "language": "Python",
+      "topics": []
+    },
+    "Tonel/technical-articles": {
+      "full_name": "Tonel/technical-articles",
+      "url": "https://github.com/Tonel/technical-articles",
+      "description": "All my technical articles",
+      "stars": 21,
+      "language": "",
+      "topics": []
+    },
+    "Trac-Systems/openmayhem": {
+      "full_name": "Trac-Systems/openmayhem",
+      "url": "https://github.com/Trac-Systems/openmayhem",
+      "description": "OpenMayhem is an open-source and decentralized inference router for consumer & pro hardware. Providers earn, users/agents access cheap inference.",
+      "stars": 19,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "ai",
+        "earn",
+        "inference",
+        "models",
+        "open-weights",
+        "openrouter",
+        "router",
+        "skills"
+      ]
+    },
+    "Trevoke/the-recs-files": {
+      "full_name": "Trevoke/the-recs-files",
+      "url": "https://github.com/Trevoke/the-recs-files",
+      "description": "Record-driven agentic development. The truth is in here.",
+      "stars": 7,
+      "language": "JavaScript",
+      "topics": [
+        "agentic-workflow"
+      ]
+    },
+    "VanillaCreamer/Awesome-Personalized-LLMs": {
+      "full_name": "VanillaCreamer/Awesome-Personalized-LLMs",
+      "url": "https://github.com/VanillaCreamer/Awesome-Personalized-LLMs",
+      "description": "The latest progress of Personalized Large Language Models (LLMs).",
+      "stars": 80,
+      "language": "",
+      "topics": []
+    },
+    "VigoZhao/AI-Visual-Prompt-Cookbook": {
+      "full_name": "VigoZhao/AI-Visual-Prompt-Cookbook",
+      "url": "https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook",
+      "description": "Plug-and-play JSON style prompts for Nano Banana Pro, GPT Image & Midjourney. Copy one style.json, get a consistent look. New styles every week.",
+      "stars": 844,
+      "language": "HTML",
+      "topics": [
+        "ai",
+        "ai-art",
+        "ai-prompts",
+        "design-resources",
+        "gemini",
+        "generative-ai",
+        "gpt-image",
+        "graphic-design",
+        "image-generation",
+        "json",
+        "midjourney",
+        "nano-banana",
+        "nano-banana-pro",
+        "poster-design",
+        "prompt-engineering",
+        "prompt-library",
+        "prompt-templates",
+        "prompts",
+        "style-transfer",
+        "text-to-image"
+      ]
+    },
+    "XMUDeepLIT/Awesome-Self-Evolving-Agents": {
+      "full_name": "XMUDeepLIT/Awesome-Self-Evolving-Agents",
+      "url": "https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents",
+      "description": "A Survey of Self-Evolving Agents | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on Self-Evolving Agents.",
+      "stars": 486,
+      "language": "",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "agent-survey",
+        "awsome-self-evolving-agents",
+        "self-evolution",
+        "self-evolving",
+        "self-evolving-agents",
+        "skill-survey"
+      ]
+    },
+    "XueruiSu/Reproduce-DeepSeek-R1-Survey": {
+      "full_name": "XueruiSu/Reproduce-DeepSeek-R1-Survey",
+      "url": "https://github.com/XueruiSu/Reproduce-DeepSeek-R1-Survey",
+      "description": "This repository collects various works that reproduce DeepSeek R1, as well as works related to DeepSeek R1 and the DeepSeek series.",
+      "stars": 20,
+      "language": "",
+      "topics": []
+    },
+    "YanjieZe/awesome-humanoid-robot-learning": {
+      "full_name": "YanjieZe/awesome-humanoid-robot-learning",
+      "url": "https://github.com/YanjieZe/awesome-humanoid-robot-learning",
+      "description": "A Paper List for Humanoid Robot Learning.",
+      "stars": 2898,
+      "language": "Python",
+      "topics": []
+    },
+    "Yanyutin753/LambChat": {
+      "full_name": "Yanyutin753/LambChat",
+      "url": "https://github.com/Yanyutin753/LambChat",
+      "description": "LambChat — Enterprise Agent Infra for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
+      "stars": 224,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "deepagents",
+        "infra",
+        "mcp",
+        "skills"
+      ]
+    },
+    "YouMind-OpenLab/awesome-nano-banana-pro-prompts": {
+      "full_name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+      "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+      "description": "🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.",
+      "stars": 13781,
+      "language": "TypeScript",
+      "topics": [
+        "ai-image-generation",
+        "ai-prompts",
+        "awesome",
+        "awesome-list",
+        "gemini",
+        "gemini-ai",
+        "google-gemini",
+        "image-generation",
+        "multilingual",
+        "nano-banana",
+        "nano-banana-2",
+        "nano-banana-pro",
+        "nanobanana",
+        "nanobanana-pro",
+        "prompt-engineering",
+        "prompts"
+      ]
+    },
+    "YuzeHao2023/daily-arxiv-ai4bio": {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4bio",
+      "url": "https://github.com/YuzeHao2023/daily-arxiv-ai4bio",
+      "description": "🎓Automatically Update AI4Bio Papers Daily using Github Actions",
+      "stars": 20,
+      "language": "Python",
+      "topics": [
+        "ai4biology",
+        "ai4science"
+      ]
+    },
+    "YuzeHao2023/daily-arxiv-ai4cheme": {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4cheme",
+      "url": "https://github.com/YuzeHao2023/daily-arxiv-ai4cheme",
+      "description": "🎓Automatically Update AI4Chemical-Engineering Papers Daily using Github Actions",
+      "stars": 14,
+      "language": "Python",
+      "topics": [
+        "ai4science",
+        "chemical-engineering"
+      ]
+    },
+    "YuzeHao2023/daily-arxiv-ai4economy": {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4economy",
+      "url": "https://github.com/YuzeHao2023/daily-arxiv-ai4economy",
+      "description": "🎓Automatically Update AI4Economy Papers Daily using Github Actions",
+      "stars": 5,
+      "language": "Python",
+      "topics": [
+        "ai4economy",
+        "ai4science"
+      ]
+    },
+    "ZhuYingJessica/cv-daily": {
+      "full_name": "ZhuYingJessica/cv-daily",
+      "url": "https://github.com/ZhuYingJessica/cv-daily",
+      "description": "This is an Arxiv paper collection",
+      "stars": 49,
+      "language": "Python",
+      "topics": []
+    },
+    "a2tm7a/Artificial-Intelligence-startups-companies-list": {
+      "full_name": "a2tm7a/Artificial-Intelligence-startups-companies-list",
+      "url": "https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list",
+      "description": "List of Artificial Intelligence startups companies - projectstartups.com",
+      "stars": 27,
+      "language": "",
+      "topics": []
+    },
+    "abordage/awesome-mcp": {
+      "full_name": "abordage/awesome-mcp",
+      "url": "https://github.com/abordage/awesome-mcp",
+      "description": "Curated list of Model Context Protocol (MCP) servers, clients, and frameworks. Automatically updated daily.",
+      "stars": 31,
+      "language": "",
+      "topics": [
+        "awesome-list",
+        "mcp",
+        "mcp-client",
+        "mcp-server",
+        "mcp-tools",
+        "model-context-protocol"
+      ]
+    },
+    "agentscope-ai/OpenJudge": {
+      "full_name": "agentscope-ai/OpenJudge",
+      "url": "https://github.com/agentscope-ai/OpenJudge",
+      "description": "OpenJudge: A Unified Framework for Holistic Evaluation and Quality Rewards",
+      "stars": 1100,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "ai-agent",
+        "alignment",
+        "evaluation",
+        "grader",
+        "llm",
+        "reward",
+        "reward-model",
+        "rlhf",
+        "skill-md",
+        "skills"
+      ]
+    },
+    "ai-agriculture-circuits-and-systems/ai_agriculture_news": {
+      "full_name": "ai-agriculture-circuits-and-systems/ai_agriculture_news",
+      "url": "https://github.com/ai-agriculture-circuits-and-systems/ai_agriculture_news",
+      "description": "This project curates a comprehensive collection of research papers examining the relationship between artificial intelligence and sustainability. ",
+      "stars": 18,
+      "language": "Python",
+      "topics": [
+        "agriculture",
+        "news"
+      ]
+    },
+    "ai-boost/awesome-a2a": {
+      "full_name": "ai-boost/awesome-a2a",
+      "url": "https://github.com/ai-boost/awesome-a2a",
+      "description": "Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place.",
+      "stars": 709,
+      "language": "",
+      "topics": [
+        "a2a",
+        "a2a-cli",
+        "a2a-mcp",
+        "a2a-protocol",
+        "a2a-server",
+        "agent",
+        "agent2agent",
+        "mcp"
+      ]
+    },
+    "ai-boost/awesome-prompts": {
+      "full_name": "ai-boost/awesome-prompts",
+      "url": "https://github.com/ai-boost/awesome-prompts",
+      "description": "Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt engineering, context engineering, agent harnesses, red teaming.",
+      "stars": 9238,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "awesome",
+        "awesome-list",
+        "chatgpt",
+        "context-engineering",
+        "llm",
+        "papers",
+        "prompt",
+        "prompt-engineering"
+      ]
+    },
+    "ailia-ai/ailia-models": {
+      "full_name": "ailia-ai/ailia-models",
+      "url": "https://github.com/ailia-ai/ailia-models",
+      "description": "The collection of pre-trained, state-of-the-art AI models for ailia SDK",
+      "stars": 2405,
+      "language": "Python",
+      "topics": [
+        "action-recognition",
+        "anomaly-detection",
+        "audio-processing",
+        "background-removal",
+        "crowd-counting",
+        "deep-learning",
+        "embeddings",
+        "face-detection",
+        "face-recognition",
+        "fashion-ai",
+        "gan",
+        "hand-detection",
+        "image-classification",
+        "image-segmentation",
+        "llm",
+        "neural-network",
+        "object-detection",
+        "object-recognition",
+        "object-tracking",
+        "pose-estimation"
+      ]
+    },
+    "aliammari1/awesome-ai-tools": {
+      "full_name": "aliammari1/awesome-ai-tools",
+      "url": "https://github.com/aliammari1/awesome-ai-tools",
+      "description": "Curated collection of 100+ AI tools designed to enhance productivity and creativity, featuring live demos and APIs for developers",
+      "stars": 115,
+      "language": "TypeScript",
+      "topics": [
+        "ai-tools",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "curated-list",
+        "productivity",
+        "tool",
+        "tools",
+        "utility",
+        "web-services"
+      ]
+    },
+    "aliyun/ros-templates": {
+      "full_name": "aliyun/ros-templates",
+      "url": "https://github.com/aliyun/ros-templates",
+      "description": "Examples and best practices of Alibaba Cloud ROS templates.",
+      "stars": 43,
+      "language": "Open Policy Agent",
+      "topics": [
+        "ros",
+        "template"
+      ]
+    },
+    "alopatenko/LLMSearchRecommender": {
+      "full_name": "alopatenko/LLMSearchRecommender",
+      "url": "https://github.com/alopatenko/LLMSearchRecommender",
+      "description": "This compendium reviews significant published research contributions and industrial engineering practices in leveraging Generative AI and LLMs for developing search, recommender, personalization, and question-answering systems. It aims to cover the entire spectrum of research and practices",
+      "stars": 125,
+      "language": "",
+      "topics": []
+    },
+    "alvinreal/awesome-opensource-ai": {
+      "full_name": "alvinreal/awesome-opensource-ai",
+      "url": "https://github.com/alvinreal/awesome-opensource-ai",
+      "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
+      "stars": 5035,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "mlops",
+        "open-source",
+        "open-source-ai",
+        "rag"
+      ]
+    },
+    "amitshekhariitbhu/ai-engineering-interview-questions": {
+      "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
+      "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
+      "stars": 3649,
+      "language": "Markdown",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "fine-tuning",
+        "interview",
+        "interview-preparation",
+        "interview-questions",
+        "llm",
+        "llm-inference",
+        "mcp",
+        "quantization",
+        "questions-and-answers",
+        "rag"
+      ]
+    },
+    "amitshekhariitbhu/machine-learning-interview-questions": {
+      "full_name": "amitshekhariitbhu/machine-learning-interview-questions",
+      "url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
+      "description": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
+      "stars": 456,
+      "language": "Markdown",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "deep-learning",
+        "deep-learning-interview",
+        "deep-learning-interview-questions",
+        "interview",
+        "interview-questions",
+        "llm",
+        "llm-interview",
+        "machine-learning",
+        "machine-learning-interview",
+        "machine-learning-interview-questions",
+        "ml-system-design"
+      ]
+    },
+    "aneasystone/github-trending": {
+      "full_name": "aneasystone/github-trending",
+      "url": "https://github.com/aneasystone/github-trending",
+      "description": "使用 Github Actions 跟踪 Github 趋势项目。",
+      "stars": 210,
+      "language": "Python",
+      "topics": []
+    },
+    "anomixer/openclaw-news": {
+      "full_name": "anomixer/openclaw-news",
+      "url": "https://github.com/anomixer/openclaw-news",
+      "description": "OpenClaw Daily RSS News (with Ollama Quick Setup Guide) | 每日RSS新聞兼快速安裝指南",
+      "stars": 41,
+      "language": "JavaScript",
+      "topics": [
+        "clawdbot",
+        "install-guide",
+        "moltbot",
+        "molty",
+        "ollama",
+        "openclaw",
+        "windows",
+        "wsl2"
+      ]
+    },
+    "araguaci/github-trending": {
+      "full_name": "araguaci/github-trending",
+      "url": "https://github.com/araguaci/github-trending",
+      "description": "Tracking the most popular Github repos, update daily(Python version)",
+      "stars": 17,
+      "language": "Python",
+      "topics": [
+        "github-trending",
+        "python"
+      ]
+    },
+    "areal-project/AReaL": {
+      "full_name": "areal-project/AReaL",
+      "url": "https://github.com/areal-project/AReaL",
+      "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+      "stars": 5910,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "llm",
+        "llm-agent",
+        "llm-reasoning",
+        "machine-learning-systems",
+        "mlsys",
+        "reinforcement-learning",
+        "rl"
+      ]
+    },
+    "ashishpatel26/Computer-Vision-Industry-Use-Cases": {
+      "full_name": "ashishpatel26/Computer-Vision-Industry-Use-Cases",
+      "url": "https://github.com/ashishpatel26/Computer-Vision-Industry-Use-Cases",
+      "description": "Computer Vision Industry Use Cases",
+      "stars": 81,
+      "language": "Jupyter Notebook",
+      "topics": []
+    },
+    "avikds/Kaggle-Notebooks-Avik": {
+      "full_name": "avikds/Kaggle-Notebooks-Avik",
+      "url": "https://github.com/avikds/Kaggle-Notebooks-Avik",
+      "description": "A collection of my Kaggle notebooks, featuring end-to-end dataset analyses, competition solutions, hackathons, and research projects across AI, Machine Learning, and Deep Learning.",
+      "stars": 10,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "computer-vision",
+        "data-science",
+        "data-storytelling",
+        "deep-learning",
+        "exploratory-data-analysis",
+        "feature-engineering",
+        "hackathons",
+        "kaggle",
+        "kaggle-challenge",
+        "kaggle-competition",
+        "kaggle-notebook",
+        "machine-learning",
+        "neural-networks",
+        "nlp",
+        "python",
+        "research",
+        "research-notebooks",
+        "time-series-analysis"
+      ]
+    },
+    "awemorris/zedBSD": {
+      "full_name": "awemorris/zedBSD",
+      "url": "https://github.com/awemorris/zedBSD",
+      "description": "Re-implemented UNIX-like kernel \"zedBSD\" and touch-oriented Wayland desktop \"Keiland\"",
+      "stars": 49,
+      "language": "C",
+      "topics": []
+    },
+    "awesomedata/awesome-public-datasets": {
+      "full_name": "awesomedata/awesome-public-datasets",
+      "url": "https://github.com/awesomedata/awesome-public-datasets",
+      "description": "A topic-centric list of HQ open datasets.",
+      "stars": 80104,
+      "language": "",
+      "topics": [
+        "aaron-swartz",
+        "awesome-public-datasets",
+        "datasets",
+        "opendata"
+      ]
+    },
+    "azarrstore/konten-kilat-ai": {
+      "full_name": "azarrstore/konten-kilat-ai",
+      "url": "https://github.com/azarrstore/konten-kilat-ai",
+      "description": "Konten Kilat AI adalah sebuah aplikasi web yang dirancang untuk memberdayakan Usaha Mikro, Kecil, dan Menengah (UMKM) di Indonesia dengan kekuatan AI generatif. Cukup dengan mengunggah foto produk, pemilik usaha bisa mendapatkan beberapa pilihan caption pemasaran profesional dalam hitungan detik.",
+      "stars": 6,
+      "language": "TypeScript",
+      "topics": [
+        "ai-generative-hackathon",
+        "content-generation",
+        "gemini-api",
+        "hackathon-project",
+        "image-to-text",
+        "indonesia",
+        "marketing",
+        "react",
+        "typescript",
+        "umkm-tools"
+      ]
+    },
+    "benjaminzwhite/reasoning-models": {
+      "full_name": "benjaminzwhite/reasoning-models",
+      "url": "https://github.com/benjaminzwhite/reasoning-models",
+      "description": "Experiments with reasoning models, training techniques, papers",
+      "stars": 30,
+      "language": "",
+      "topics": [
+        "benchmarks",
+        "cot",
+        "deepseek",
+        "deepseek-r1",
+        "llm",
+        "models",
+        "o1",
+        "papers",
+        "reasoning",
+        "reinforcement-learning",
+        "research",
+        "rl"
+      ]
+    },
+    "best-of-ai/best-of-ai": {
+      "full_name": "best-of-ai/best-of-ai",
+      "url": "https://github.com/best-of-ai/best-of-ai",
+      "description": "A curated list of best ai tools",
+      "stars": 759,
+      "language": "HTML",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "ai-chatbot",
+        "ai-engineering",
+        "ai-tools",
+        "ai-tools-directory",
+        "awesome",
+        "awesome-ai",
+        "awesome-ai-agents",
+        "awesome-ai-tools",
+        "awesome-list",
+        "awesome-skills",
+        "best-ai-tools",
+        "best-of-ai",
+        "bestofai",
+        "free-ai-tools",
+        "top-ai-tools"
+      ]
+    },
+    "bikramtuladhar/awesome-list": {
+      "full_name": "bikramtuladhar/awesome-list",
+      "url": "https://github.com/bikramtuladhar/awesome-list",
+      "description": "",
+      "stars": 12,
+      "language": "HTML",
+      "topics": []
+    },
+    "ccamel/awesome-ccamel": {
+      "full_name": "ccamel/awesome-ccamel",
+      "url": "https://github.com/ccamel/awesome-ccamel",
+      "description": "🔖 A collection of awesome things for me, myself and I.",
+      "stars": 29,
+      "language": "",
+      "topics": [
+        "awesome",
+        "myself"
+      ]
+    },
+    "celestiaorg/awesome-celestia": {
+      "full_name": "celestiaorg/awesome-celestia",
+      "url": "https://github.com/celestiaorg/awesome-celestia",
+      "description": "An Awesome List of Celestia Resources",
+      "stars": 44,
+      "language": "",
+      "topics": []
+    },
+    "chang-xinhai/Awesome-Robot-Data-Engine": {
+      "full_name": "chang-xinhai/Awesome-Robot-Data-Engine",
+      "url": "https://github.com/chang-xinhai/Awesome-Robot-Data-Engine",
+      "description": "Curated papers, datasets, systems, and benchmarks for robot data engines across robot-centric, UMI, human/egocentric, and simulation data.",
+      "stars": 7,
+      "language": "TypeScript",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cross-embodiment",
+        "data-curation",
+        "data-engine",
+        "datasets",
+        "egocentric-vision",
+        "embodied-ai",
+        "human-robot-interaction",
+        "humanoid-robotics",
+        "imitation-learning",
+        "robot-datasets",
+        "robot-learning",
+        "robot-manipulation",
+        "robotics",
+        "simulation",
+        "synthetic-data",
+        "teleoperation",
+        "umi",
+        "vla"
+      ]
+    },
+    "chenhg5/cc-connect": {
+      "full_name": "chenhg5/cc-connect",
+      "url": "https://github.com/chenhg5/cc-connect",
+      "description": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.",
+      "stars": 16349,
+      "language": "Go",
+      "topics": []
+    },
+    "christophhagen/averaging-quaternions": {
+      "full_name": "christophhagen/averaging-quaternions",
+      "url": "https://github.com/christophhagen/averaging-quaternions",
+      "description": "Python function for correct averaging of multiple quaternions",
+      "stars": 94,
+      "language": "Python",
+      "topics": []
+    },
+    "clauderules/turbo-claude": {
+      "full_name": "clauderules/turbo-claude",
+      "url": "https://github.com/clauderules/turbo-claude",
+      "description": "A curated, auto-updated list of CLAUDE.md rules, MCP servers, and Claude Code skills. The awesome-list companion to clauderules.net.",
+      "stars": 5,
+      "language": "",
+      "topics": [
+        "anthropic",
+        "awesome-list",
+        "claude",
+        "claude-code",
+        "claude-rules",
+        "cursor",
+        "mcp"
+      ]
+    },
+    "cnlinxi/LLM-paper-daily": {
+      "full_name": "cnlinxi/LLM-paper-daily",
+      "url": "https://github.com/cnlinxi/LLM-paper-daily",
+      "description": "Automatically Update LLM Papers Daily using Github Actions. Ref: https://github.com/Vincentqyw/cv-arxiv-daily",
+      "stars": 11,
+      "language": "Python",
+      "topics": []
+    },
+    "cold-young/robotics_paper_daily": {
+      "full_name": "cold-young/robotics_paper_daily",
+      "url": "https://github.com/cold-young/robotics_paper_daily",
+      "description": "Dexterous Manipulation (Customized version of \"jiangranlv/robotics_arXiv_daily\")",
+      "stars": 12,
+      "language": "Python",
+      "topics": []
+    },
+    "criticic/InterIIT-TechMeet-Problem-Statements": {
+      "full_name": "criticic/InterIIT-TechMeet-Problem-Statements",
+      "url": "https://github.com/criticic/InterIIT-TechMeet-Problem-Statements",
+      "description": "",
+      "stars": 16,
+      "language": "HTML",
+      "topics": []
+    },
+    "cuihuan/awesome-ai-gateway": {
+      "full_name": "cuihuan/awesome-ai-gateway",
+      "url": "https://github.com/cuihuan/awesome-ai-gateway",
+      "description": "⚡ Awesome AI Gateway — pick an AI gateway from 240+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual; stars & releases refreshed daily.",
+      "stars": 156,
+      "language": "HTML",
+      "topics": [
+        "ai-gateway",
+        "ai-infrastructure",
+        "ai-tools",
+        "anthropic",
+        "api-gateway",
+        "awesome",
+        "awesome-list",
+        "benchmark",
+        "cost-optimization",
+        "deepseek",
+        "litellm",
+        "llm",
+        "llm-gateway",
+        "llm-proxy",
+        "llm-router",
+        "llmops",
+        "mcp",
+        "openai",
+        "openrouter",
+        "self-hosted"
+      ]
+    },
+    "curieuxjy/Awesome_Quadrupedal_Robots": {
+      "full_name": "curieuxjy/Awesome_Quadrupedal_Robots",
+      "url": "https://github.com/curieuxjy/Awesome_Quadrupedal_Robots",
+      "description": "Awesome Quadrupedal Robots",
+      "stars": 1187,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "quadruped",
+        "quadruped-robot",
+        "quadruped-robots"
+      ]
+    },
+    "daftAI2026/awesome-jev": {
+      "full_name": "daftAI2026/awesome-jev",
+      "url": "https://github.com/daftAI2026/awesome-jev",
+      "description": "Curated TypeSafe Jev / System One GitHub projects, open-source alternatives, and Jev news",
+      "stars": 13,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "awesome-list",
+        "directory",
+        "jev",
+        "open-source-alternatives",
+        "system-one",
+        "typed-decisions",
+        "typesafe-ai"
+      ]
+    },
+    "darelova/Awesome-Design-Resources-List": {
+      "full_name": "darelova/Awesome-Design-Resources-List",
+      "url": "https://github.com/darelova/Awesome-Design-Resources-List",
+      "description": "Awesome list with design tools, resources, articles, inspiration",
+      "stars": 82,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "dataiku/dataiku-headless": {
+      "full_name": "dataiku/dataiku-headless",
+      "url": "https://github.com/dataiku/dataiku-headless",
+      "description": "",
+      "stars": 66,
+      "language": "Python",
+      "topics": []
+    },
+    "datawhalechina/easy-vibe": {
+      "full_name": "datawhalechina/easy-vibe",
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "description": "💻  Vibe Coding 101｜Your First Course For AI Product Builders.",
+      "stars": 20413,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "ai",
+        "coding",
+        "course",
+        "deepseek",
+        "gemini",
+        "genai",
+        "gpt",
+        "llm",
+        "low-code",
+        "mcp",
+        "nextjs",
+        "no-code",
+        "openai",
+        "programming",
+        "tutorial",
+        "vibe-coding",
+        "vibecoding",
+        "vscode",
+        "workflow"
+      ]
+    },
+    "digoal/blog": {
+      "full_name": "digoal/blog",
+      "url": "https://github.com/digoal/blog",
+      "description": "AI,Opensource,Database,Business,Finance,Minds. git clone --depth 1 https://github.com/digoal/blog",
+      "stars": 8607,
+      "language": "HTML",
+      "topics": [
+        "database",
+        "enterprisedb",
+        "gpdb",
+        "greenplum",
+        "hawq",
+        "mongodb",
+        "mysql",
+        "oracle",
+        "pg",
+        "pgsql",
+        "postgres",
+        "postgresql"
+      ]
+    },
+    "eater2/ai_agents_api_library": {
+      "full_name": "eater2/ai_agents_api_library",
+      "url": "https://github.com/eater2/ai_agents_api_library",
+      "description": "Verified catalog of 300+ APIs and MCP servers with opinions and statistics so that AI agents can call after a one-time API key/OAuth setup. JSON, llms.txt and an MCP server for agents.",
+      "stars": 33,
+      "language": "Python",
+      "topics": [
+        "agent-tools",
+        "ai-agents",
+        "api-catalog",
+        "api-directory",
+        "function-calling",
+        "llm-tools",
+        "llms-txt",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "model-context-protocol",
+        "opinions",
+        "tool-calling"
+      ]
+    },
+    "eg4000/SKU110K_CVPR19": {
+      "full_name": "eg4000/SKU110K_CVPR19",
+      "url": "https://github.com/eg4000/SKU110K_CVPR19",
+      "description": "",
+      "stars": 851,
+      "language": "Python",
+      "topics": []
+    },
+    "eisber/lox-cli": {
+      "full_name": "eisber/lox-cli",
+      "url": "https://github.com/eisber/lox-cli",
+      "description": "AI agent tooling for Loxone Miniserver — natural language → config-as-code → deploy",
+      "stars": 57,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "cli",
+        "config-as-code",
+        "copilot",
+        "home-automation",
+        "loxone",
+        "rust",
+        "smarthome"
+      ]
+    },
+    "empathy87/nn-grocery-shelves": {
+      "full_name": "empathy87/nn-grocery-shelves",
+      "url": "https://github.com/empathy87/nn-grocery-shelves",
+      "description": "Recognition of product positions on shelf images using neural networks",
+      "stars": 106,
+      "language": "Jupyter Notebook",
+      "topics": []
+    },
+    "erbanku/awesome": {
+      "full_name": "erbanku/awesome",
+      "url": "https://github.com/erbanku/awesome",
+      "description": "🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00",
+      "stars": 89,
+      "language": "",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-stars"
+      ]
+    },
+    "ernie55ernie/awesome-quant": {
+      "full_name": "ernie55ernie/awesome-quant",
+      "url": "https://github.com/ernie55ernie/awesome-quant",
+      "description": "Awesome list of quantitative research, systematic trading, market microstructure, and ML-for-trading resources.",
+      "stars": 41,
+      "language": "Python",
+      "topics": []
+    },
+    "eugeneyan/applied-ml": {
+      "full_name": "eugeneyan/applied-ml",
+      "url": "https://github.com/eugeneyan/applied-ml",
+      "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+      "stars": 30913,
+      "language": "",
+      "topics": [
+        "applied-data-science",
+        "applied-machine-learning",
+        "computer-vision",
+        "data-discovery",
+        "data-engineering",
+        "data-quality",
+        "data-science",
+        "deep-learning",
+        "machine-learning",
+        "natural-language-processing",
+        "production",
+        "recsys",
+        "reinforcement-learning",
+        "search"
+      ]
+    },
+    "ever-works/awesome": {
+      "full_name": "ever-works/awesome",
+      "url": "https://github.com/ever-works/awesome",
+      "description": "Awesome - meta collection of awesome directories - https://dir.ever.works",
+      "stars": 15,
+      "language": "",
+      "topics": [
+        "awesome",
+        "directory"
+      ]
+    },
+    "ever-works/awesome-mcp-servers": {
+      "full_name": "ever-works/awesome-mcp-servers",
+      "url": "https://github.com/ever-works/awesome-mcp-servers",
+      "description": "A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. - https://mcpserver.ever.works",
+      "stars": 134,
+      "language": "",
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "lists",
+        "mcp",
+        "mcp-server",
+        "mcp-servers-directory",
+        "resources"
+      ]
+    },
+    "ever-works/awesome-vector-databases": {
+      "full_name": "ever-works/awesome-vector-databases",
+      "url": "https://github.com/ever-works/awesome-vector-databases",
+      "description": "A curated list of vector database solutions, libraries, and resources for AI applications - https://vectordb.ever.works",
+      "stars": 29,
+      "language": "",
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "lists",
+        "resouces",
+        "vector-database"
+      ]
+    },
+    "farion1231/cc-switch": {
+      "full_name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+      "stars": 154205,
+      "language": "Rust",
+      "topics": [
+        "ai-tools",
+        "claude-code",
+        "codex",
+        "deepseek-harness",
+        "desktop-app",
+        "grok",
+        "grokbuild",
+        "hermes",
+        "kimi-code",
+        "mcp",
+        "open-source",
+        "opencode",
+        "pi",
+        "provider-management",
+        "rust",
+        "skills",
+        "skills-management",
+        "tauri",
+        "wsl-support"
+      ]
+    },
+    "fendouai/awesome-deepseek-harness": {
+      "full_name": "fendouai/awesome-deepseek-harness",
+      "url": "https://github.com/fendouai/awesome-deepseek-harness",
+      "description": "Awesome DeepSeek Harness",
+      "stars": 53,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "deepseek",
+        "harness"
+      ]
+    },
+    "frutik/awesome-search": {
+      "full_name": "frutik/awesome-search",
+      "url": "https://github.com/frutik/awesome-search",
+      "description": "Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness",
+      "stars": 1570,
+      "language": "HTML",
+      "topics": [
+        "autocomplete-suggestions",
+        "ecommerce-search",
+        "evaluating-search",
+        "knowledge-graph",
+        "learning-to-rank",
+        "natural-language-processing",
+        "query-understanding",
+        "ranking",
+        "relevance-algorithms",
+        "relevant-search",
+        "search",
+        "search-engine",
+        "search-engines",
+        "search-intents",
+        "search-ui",
+        "search-ux",
+        "semantic-search",
+        "spelling-correction",
+        "suggestions",
+        "synonyms"
+      ]
+    },
+    "futakw/Awesome-Physical-AI-Safety": {
+      "full_name": "futakw/Awesome-Physical-AI-Safety",
+      "url": "https://github.com/futakw/Awesome-Physical-AI-Safety",
+      "description": "An LLM-assisted bibliography of safety, security, robustness, ethical and societal risks, and trustworthy deployment across VLA, robots, autonomous systems, and embodied agents.",
+      "stars": 10,
+      "language": "Python",
+      "topics": [
+        "adversarial-robustness",
+        "ai-safety",
+        "autonomous-systems",
+        "awesome-list",
+        "embodied-agent",
+        "embodied-ai",
+        "human-robot-interaction",
+        "jailbreak",
+        "llm-safety",
+        "physical-ai",
+        "responsible-ai",
+        "robot-safety",
+        "robotics",
+        "robotics-security",
+        "survey",
+        "trustworthy-ai",
+        "vision-language-action",
+        "vla"
+      ]
+    },
+    "garylab/MakeMoneyWithAI": {
+      "full_name": "garylab/MakeMoneyWithAI",
+      "url": "https://github.com/garylab/MakeMoneyWithAI",
+      "description": "A list of open-source AI projects you can use to generate income easily.",
+      "stars": 1215,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "deepfake",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "nlp",
+        "ocr",
+        "open-source",
+        "open-source-ai",
+        "passive-income"
+      ]
+    },
+    "georgezouq/awesome-ai-in-finance": {
+      "full_name": "georgezouq/awesome-ai-in-finance",
+      "url": "https://github.com/georgezouq/awesome-ai-in-finance",
+      "description": "🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.",
+      "stars": 6748,
+      "language": "",
+      "topics": [
+        "analysis",
+        "awesome",
+        "awesome-list",
+        "cryptocurrency",
+        "deep-learning",
+        "financial",
+        "neural-network",
+        "quant",
+        "quantitative-finance",
+        "reinforcement-learning",
+        "stock-market",
+        "technology-analysis"
+      ]
+    },
+    "git1hu1bou111/hakimi-sub2api": {
+      "full_name": "git1hu1bou111/hakimi-sub2api",
+      "url": "https://github.com/git1hu1bou111/hakimi-sub2api",
+      "description": "11111",
+      "stars": 6,
+      "language": "Go",
+      "topics": []
+    },
+    "google/three-live": {
+      "full_name": "google/three-live",
+      "url": "https://github.com/google/three-live",
+      "description": "AI-first Native 3D, CAD & spatial computing. Runtime and JIT compiler for Android (Filament & Jetpack XR), iOS/visionOS (RealityKit), and WebGL2/WebXR.",
+      "stars": 373,
+      "language": "TypeScript",
+      "topics": [
+        "android-xr",
+        "cad",
+        "csg",
+        "gltf",
+        "mcp",
+        "spatial-computing",
+        "threejs",
+        "usdz",
+        "visionos"
+      ]
+    },
+    "gulvarol/grocerydataset": {
+      "full_name": "gulvarol/grocerydataset",
+      "url": "https://github.com/gulvarol/grocerydataset",
+      "description": "Toward Retail Product Recognition on Grocery Shelves, 2014",
+      "stars": 131,
+      "language": "",
+      "topics": []
+    },
+    "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising": {
+      "full_name": "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
+      "url": "https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
+      "description": "Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Pre-Ranking, Ranking, Post Ranking, Relevance, LLM and RL. Please cite our paper \"Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives\" (TOIS 2026).",
+      "stars": 2635,
+      "language": "Python",
+      "topics": [
+        "advertising",
+        "ctr",
+        "cvr",
+        "deep-learning",
+        "recommender-system",
+        "reinforcement-learning",
+        "search",
+        "search-engine"
+      ]
+    },
+    "hackthacker-sec/awesome-ai-system-design": {
+      "full_name": "hackthacker-sec/awesome-ai-system-design",
+      "url": "https://github.com/hackthacker-sec/awesome-ai-system-design",
+      "description": "800+ real-world ML & LLM system design case studies from 150+ companies Google, Meta, Netflix, Uber, Airbnb & more. Production AI, not theory.",
+      "stars": 14,
+      "language": "",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "artificial-intelligence",
+        "awesome-lists",
+        "case-studies",
+        "computer-vision",
+        "deep-learning",
+        "generative-ai",
+        "interview-preparation",
+        "large-language-models",
+        "llm",
+        "machine-learning",
+        "mlops",
+        "nlp",
+        "production-ml",
+        "rag",
+        "recommendation-systems",
+        "system-design"
+      ]
+    },
+    "hashgraph-online/awesome-ai-plugins": {
+      "full_name": "hashgraph-online/awesome-ai-plugins",
+      "url": "https://github.com/hashgraph-online/awesome-ai-plugins",
+      "description": "A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCodek DSH, Kimi and More. https://hol.org/plugins",
+      "stars": 1040,
+      "language": "Python",
+      "topics": [
+        "ai-assistant",
+        "ai-plugin",
+        "awesome",
+        "awesome-list",
+        "best-ai-plugins",
+        "best-antigravity-plugins",
+        "best-claude-plugins",
+        "best-codex-plugins",
+        "best-dsh-plugins",
+        "best-grok-plugins",
+        "best-kimi-plugins",
+        "best-opencode-plugins",
+        "best-zcode-plugins",
+        "chatgpt",
+        "claude-code",
+        "codex",
+        "extensions",
+        "grok",
+        "mcp",
+        "skills"
+      ]
+    },
+    "hashgraph-online/awesome-codex-plugins": {
+      "full_name": "hashgraph-online/awesome-codex-plugins",
+      "url": "https://github.com/hashgraph-online/awesome-codex-plugins",
+      "description": "A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins",
+      "stars": 1570,
+      "language": "Python",
+      "topics": [
+        "ai-coding",
+        "awesome",
+        "awesome-list",
+        "best-ai-plugins",
+        "best-chatgpt-plugins",
+        "best-codex-plugins",
+        "best-openai-plugins",
+        "chatgpt",
+        "chatgpt-plugins",
+        "codex",
+        "codex-marketplace",
+        "codex-plugins",
+        "codex-skill",
+        "codex-skills",
+        "marketplace",
+        "openai"
+      ]
+    },
+    "hiyouga/LlamaFactory": {
+      "full_name": "hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "stars": 76027,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "deepseek",
+        "fine-tuning",
+        "gemma",
+        "gpt",
+        "instruction-tuning",
+        "large-language-models",
+        "llama",
+        "llama3",
+        "llm",
+        "lora",
+        "moe",
+        "nlp",
+        "peft",
+        "qlora",
+        "quantization",
+        "qwen",
+        "rlhf",
+        "transformers"
+      ]
+    },
+    "imagineVid/Awesome-seedream-5-pro-prompts-and-skills": {
+      "full_name": "imagineVid/Awesome-seedream-5-pro-prompts-and-skills",
+      "url": "https://github.com/imagineVid/Awesome-seedream-5-pro-prompts-and-skills",
+      "description": "Source-backed Seedream 5.0 Pro prompts with real result images, reference editing, cinematic workflows, and multilingual guides.",
+      "stars": 8,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "intel-retail/loss-prevention": {
+      "full_name": "intel-retail/loss-prevention",
+      "url": "https://github.com/intel-retail/loss-prevention",
+      "description": "The Loss Prevention Pipeline System is an open-source reference implementation for building and deploying video analytics pipelines for retail loss prevention use cases. It leverages Intel® hardware and software, GStreamer, and OpenVINO™ to enable scalable, real-time object detection and classification at the edge.",
+      "stars": 11,
+      "language": "Python",
+      "topics": []
+    },
+    "jafshare/GithubTrending": {
+      "full_name": "jafshare/GithubTrending",
+      "url": "https://github.com/jafshare/GithubTrending",
+      "description": "",
+      "stars": 13,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "jerrylin-23/North-America-internships": {
+      "full_name": "jerrylin-23/North-America-internships",
+      "url": "https://github.com/jerrylin-23/North-America-internships",
+      "description": "🍁 Automated tracker for North America Software Engineering, Data Science, Quantitative Research, & AI/ML Internships & Co-ops (Rolling).",
+      "stars": 6,
+      "language": "JavaScript",
+      "topics": [
+        "ashby-api",
+        "canada-internships",
+        "co-op",
+        "greenhouse-api",
+        "internship-tracker",
+        "internships",
+        "job-scraper",
+        "lever-api",
+        "ml-internships",
+        "rolling-internships",
+        "swe-internships"
+      ]
+    },
+    "jianruntech/geo-score": {
+      "full_name": "jianruntech/geo-score",
+      "url": "https://github.com/jianruntech/geo-score",
+      "description": "Can AI engines cite your site, and do they? Free 0–100 readiness score on an open GEO rubric, plus ask and weekly citation tracking via OpenAI, Perplexity, Gemini, Anthropic and OpenRouter with your own keys. Zero dependencies; CLI, GitHub Action and MCP server.",
+      "stars": 34,
+      "language": "Python",
+      "topics": [
+        "aeo",
+        "ai-search",
+        "ai-visibility",
+        "answer-engine-optimization",
+        "chatgpt",
+        "claude-code",
+        "claude-skill",
+        "cli",
+        "generative-engine-optimization",
+        "geo",
+        "github-action",
+        "llm",
+        "llm-citations",
+        "llms-txt",
+        "mcp-server",
+        "perplexity",
+        "rubric",
+        "seo",
+        "site-audit",
+        "structured-data"
+      ]
+    },
+    "jianzhnie/awesome-text-to-video": {
+      "full_name": "jianzhnie/awesome-text-to-video",
+      "url": "https://github.com/jianzhnie/awesome-text-to-video",
+      "description": " A Survey on Text-to-Video Generation/Synthesis.",
+      "stars": 756,
+      "language": "Python",
+      "topics": [
+        "aigc",
+        "image-generation",
+        "text-to-image",
+        "text-to-video",
+        "video-generation"
+      ]
+    },
+    "jnv/lists": {
+      "full_name": "jnv/lists",
+      "url": "https://github.com/jnv/lists",
+      "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+      "stars": 11661,
+      "language": "",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "curated-lists",
+        "lists",
+        "resources"
+      ]
+    },
+    "joeynyc/awesome-microduck": {
+      "full_name": "joeynyc/awesome-microduck",
+      "url": "https://github.com/joeynyc/awesome-microduck",
+      "description": "A curated list of software, simulators, policies, agent tools and coverage for the Pollen Robotics / Hugging Face Microduck robot",
+      "stars": 215,
+      "language": "JavaScript",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hugging-face",
+        "microduck",
+        "mujoco",
+        "pollen-robotics",
+        "reinforcement-learning",
+        "robotics"
+      ]
+    },
+    "johe123qwe/github-trending": {
+      "full_name": "johe123qwe/github-trending",
+      "url": "https://github.com/johe123qwe/github-trending",
+      "description": "定时抓取 Github Trending",
+      "stars": 62,
+      "language": "Python",
+      "topics": []
+    },
+    "joshephan/awesome-agent-apis": {
+      "full_name": "joshephan/awesome-agent-apis",
+      "url": "https://github.com/joshephan/awesome-agent-apis",
+      "description": "🤖 A curated list of APIs, tools, and resources for AI agents",
+      "stars": 22,
+      "language": "Python",
+      "topics": []
+    },
+    "js-lee-AI/awesome-llm-agent-papers": {
+      "full_name": "js-lee-AI/awesome-llm-agent-papers",
+      "url": "https://github.com/js-lee-AI/awesome-llm-agent-papers",
+      "description": "LLM agents: curated papers on planning, memory, tool use, multi-agent systems, evaluation, and safety.",
+      "stars": 114,
+      "language": "Python",
+      "topics": [
+        "agent-benchmark",
+        "agent-survey",
+        "agents",
+        "ai-agents",
+        "ai-safety",
+        "autonomous-agents",
+        "awesome",
+        "awesome-list",
+        "large-language-models",
+        "llm",
+        "llm-agents",
+        "llm-safety",
+        "memory",
+        "multi-agent-systems",
+        "paper-list",
+        "planning",
+        "prompt-injection",
+        "survey",
+        "tool-use"
+      ]
+    },
+    "julianfbeck/github-stars": {
+      "full_name": "julianfbeck/github-stars",
+      "url": "https://github.com/julianfbeck/github-stars",
+      "description": "A curated list of my GitHub stars by stargazed",
+      "stars": 5,
+      "language": "",
+      "topics": []
+    },
+    "jyyang621/DailyArXiv": {
+      "full_name": "jyyang621/DailyArXiv",
+      "url": "https://github.com/jyyang621/DailyArXiv",
+      "description": "Thanks to https://github.com/zezhishao/DailyArXiv.git",
+      "stars": 12,
+      "language": "Python",
+      "topics": []
+    },
+    "kaichengyang0828/MLLM-for-Universal-Embedding-Awesome": {
+      "full_name": "kaichengyang0828/MLLM-for-Universal-Embedding-Awesome",
+      "url": "https://github.com/kaichengyang0828/MLLM-for-Universal-Embedding-Awesome",
+      "description": "MLLM-based Universal Embedding Learning Paper List!",
+      "stars": 11,
+      "language": "",
+      "topics": []
+    },
+    "kesimeg/awesome-turkish-language-models": {
+      "full_name": "kesimeg/awesome-turkish-language-models",
+      "url": "https://github.com/kesimeg/awesome-turkish-language-models",
+      "description": "A curated list of Turkish AI models, datasets, papers",
+      "stars": 102,
+      "language": "",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "large-language-models",
+        "llm",
+        "speech",
+        "turkish",
+        "turkish-language",
+        "turkish-nlp",
+        "visual-language-models",
+        "vlm"
+      ]
+    },
+    "krishnakaushik25/Similar-Images-Finder": {
+      "full_name": "krishnakaushik25/Similar-Images-Finder",
+      "url": "https://github.com/krishnakaushik25/Similar-Images-Finder",
+      "description": "Built an image similarity application using Python to search and find images of products that are similar to any given product. Implemented the K-Nearest Neighbor algorithm to find products with maximum similarity.",
+      "stars": 6,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "elasticsearch",
+        "knn-classifier",
+        "similarity-search"
+      ]
+    },
+    "krishshah249/Retail-Shelf-Monitoring-and-Product-Detection": {
+      "full_name": "krishshah249/Retail-Shelf-Monitoring-and-Product-Detection",
+      "url": "https://github.com/krishshah249/Retail-Shelf-Monitoring-and-Product-Detection",
+      "description": "",
+      "stars": 5,
+      "language": "Jupyter Notebook",
+      "topics": []
+    },
+    "krzemienski/awesome-from-stars": {
+      "full_name": "krzemienski/awesome-from-stars",
+      "url": "https://github.com/krzemienski/awesome-from-stars",
+      "description": "",
+      "stars": 20,
+      "language": "Python",
+      "topics": []
+    },
+    "laserx/stars": {
+      "full_name": "laserx/stars",
+      "url": "https://github.com/laserx/stars",
+      "description": "",
+      "stars": 5,
+      "language": "",
+      "topics": []
+    },
+    "leeex1/Quillan-Ronin": {
+      "full_name": "leeex1/Quillan-Ronin",
+      "url": "https://github.com/leeex1/Quillan-Ronin",
+      "description": "Quillan-Ronin - a sovereign mini Software 3.0 runtime on Universal BitNet 1.58-bit logic and a 9B EGGROLL Swarm. v5.4.0-oni features a 34-expert council (C1–C34) with dense pull-weighted consensus, Sovereign Flash Diffusion, and the C20-ARTIFEX Host-Execution Bridge. Architected by CrashOverrideX",
+      "stars": 29,
+      "language": "HTML",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "custom",
+        "engineering",
+        "prompt",
+        "prompt-engineering",
+        "prompt-toolkit"
+      ]
+    },
+    "leenkcool/Blue-Whale-Harness": {
+      "full_name": "leenkcool/Blue-Whale-Harness",
+      "url": "https://github.com/leenkcool/Blue-Whale-Harness",
+      "description": "🐋 DeepSeek Harness 插件总目录 · The catalog of DSH plugins：1958 个仓库 / 1819 个真插件（Skills · MCP · Tools · UI · Orchestration），中英文搜索、分类筛选、STAR 排序 → leenkcool.github.io",
+      "stars": 209,
+      "language": "HTML",
+      "topics": [
+        "agents",
+        "awesome",
+        "awesome-list",
+        "catalog",
+        "deepseek",
+        "deepseek-ai",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "deepseek-harness-plugins",
+        "directory",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "harness",
+        "harness-ai",
+        "mcp",
+        "plugin-catalog",
+        "plugin-marketplace",
+        "plugins",
+        "skills"
+      ]
+    },
+    "leofan90/Awesome-World-Models": {
+      "full_name": "leofan90/Awesome-World-Models",
+      "url": "https://github.com/leofan90/Awesome-World-Models",
+      "description": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
+      "stars": 2058,
+      "language": "Python",
+      "topics": [
+        "artificial-intelligence",
+        "autonomous-driving",
+        "awesome",
+        "deep-learning",
+        "embodied-ai",
+        "future-prediction",
+        "video-prediction",
+        "world-model"
+      ]
+    },
+    "linkfox-ai/linkfox-skills": {
+      "full_name": "linkfox-ai/linkfox-skills",
+      "url": "https://github.com/linkfox-ai/linkfox-skills",
+      "description": "Linkfox skills",
+      "stars": 119,
+      "language": "Python",
+      "topics": []
+    },
+    "liutaocode/Video-Generation-arxiv-daily": {
+      "full_name": "liutaocode/Video-Generation-arxiv-daily",
+      "url": "https://github.com/liutaocode/Video-Generation-arxiv-daily",
+      "description": "Automatically Update Video Generation Papers Daily using Github Actions (Update Every 12th hours)",
+      "stars": 22,
+      "language": "Python",
+      "topics": []
+    },
+    "lolly-tools/lolly": {
+      "full_name": "lolly-tools/lolly",
+      "url": "https://github.com/lolly-tools/lolly",
+      "description": "Lolly generates production-ready assets: videos, graphics, documents, bundles, and  more  - from simple inputs. Constraint-first, template-driven, works offline.",
+      "stars": 14,
+      "language": "TypeScript",
+      "topics": [
+        "cmyk",
+        "content-creation",
+        "content-credentials",
+        "creative",
+        "creative-coding",
+        "design-tools",
+        "edge-computing",
+        "generative-art",
+        "self-hosted",
+        "svg"
+      ]
+    },
+    "lovnishverma/lovnishverma": {
+      "full_name": "lovnishverma/lovnishverma",
+      "url": "https://github.com/lovnishverma/lovnishverma",
+      "description": " Lovnish Verma - Project Engineer · NATIONAL INSTITUTE OF ELECTRONICS & INFORMATION TECHNOLOGY (NIELIT)",
+      "stars": 7,
+      "language": "",
+      "topics": [
+        "computerengineering",
+        "lovnish",
+        "lovnishverma"
+      ]
+    },
+    "lucas-figueiredo-m/radar": {
+      "full_name": "lucas-figueiredo-m/radar",
+      "url": "https://github.com/lucas-figueiredo-m/radar",
+      "description": "",
+      "stars": 7,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "luohongk/Embodied-AI-Daily": {
+      "full_name": "luohongk/Embodied-AI-Daily",
+      "url": "https://github.com/luohongk/Embodied-AI-Daily",
+      "description": "📚这个仓库是在arxiv上收集的有关VLN，VLA，World Model，SLAM，Gaussian Splatting,非线性优化等相关论文。每天都会自动更新！issue区域是最新10篇论文",
+      "stars": 506,
+      "language": "HTML",
+      "topics": [
+        "deep-learning",
+        "gaussian-splatting",
+        "lio",
+        "slam",
+        "vio",
+        "vla",
+        "vln"
+      ]
+    },
+    "lwpyh/Awesome-MLLM-Reasoning-Collection": {
+      "full_name": "lwpyh/Awesome-MLLM-Reasoning-Collection",
+      "url": "https://github.com/lwpyh/Awesome-MLLM-Reasoning-Collection",
+      "description": "A collection of multimodal reasoning papers, codes, datasets, benchmarks and resources.",
+      "stars": 43,
+      "language": "",
+      "topics": []
+    },
+    "maahibhama/PulseRN": {
+      "full_name": "maahibhama/PulseRN",
+      "url": "https://github.com/maahibhama/PulseRN",
+      "description": "Local-first React Native debugger with one timeline for native logs, network, Redux, navigation, storage, performance, errors, and MCP.",
+      "stars": 11,
+      "language": "TypeScript",
+      "topics": [
+        "debugging",
+        "desktop-app",
+        "developer-tools",
+        "electron",
+        "expo",
+        "network-inspector",
+        "open-source",
+        "performance-monitoring",
+        "react-native",
+        "react-native-cli",
+        "react-native-debugger",
+        "react-navigation",
+        "redux",
+        "typescript"
+      ]
+    },
+    "madhurimarawat/Machine-Learning-Using-Python": {
+      "full_name": "madhurimarawat/Machine-Learning-Using-Python",
+      "url": "https://github.com/madhurimarawat/Machine-Learning-Using-Python",
+      "description": "This repository contains machine learning programs in the Python programming language.",
+      "stars": 7,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "breast-cancer-dataset",
+        "data-cleaning",
+        "decision-tree",
+        "deep-learning",
+        "iris-dataset",
+        "kaggle-datasets",
+        "knn",
+        "machine-learning-algorithms",
+        "matplotlib",
+        "pandas",
+        "pca",
+        "python",
+        "random-forest",
+        "scikit-learn",
+        "single-neuron-neural-network",
+        "supervised-learning",
+        "supervised-learning-algorithms",
+        "svm",
+        "unsupervised-learning-algorithms",
+        "wine-dataset"
+      ]
+    },
+    "mahdims/researchmate": {
+      "full_name": "mahdims/researchmate",
+      "url": "https://github.com/mahdims/researchmate",
+      "description": "Stay current on high-quality work at the Operations Research × AI intersection. A research agent performs deep, multi-pass analysis of each paper, scores relevance, and curates what matters, helping you spot trends and gaps faster.",
+      "stars": 11,
+      "language": "Python",
+      "topics": [
+        "ai-infrastructure",
+        "ai-research",
+        "artificial-intelligence",
+        "automatic-algorithm-design",
+        "awesome-list",
+        "combinatorial-optimization",
+        "evolutionary-algorithms",
+        "llm-agents",
+        "machine-learning",
+        "operations-research",
+        "optimization",
+        "optimization-modeling",
+        "reinforcement-learning",
+        "system-design"
+      ]
+    },
+    "mallahyari/ml-practical-usecases": {
+      "full_name": "mallahyari/ml-practical-usecases",
+      "url": "https://github.com/mallahyari/ml-practical-usecases",
+      "description": "A database of 650 Machine Learning (ML) system design case studies from 100+ companies.",
+      "stars": 1310,
+      "language": "",
+      "topics": []
+    },
+    "marco-jardim/mcp_trunc_proxy": {
+      "full_name": "marco-jardim/mcp_trunc_proxy",
+      "url": "https://github.com/marco-jardim/mcp_trunc_proxy",
+      "description": "A generic stdio MCP truncation proxy",
+      "stars": 6,
+      "language": "JavaScript",
+      "topics": []
+    },
+    "matrix-agent/awesome-agentic-world-modeling": {
+      "full_name": "matrix-agent/awesome-agentic-world-modeling",
+      "url": "https://github.com/matrix-agent/awesome-agentic-world-modeling",
+      "description": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+      "stars": 338,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "awesome",
+        "awesome-list",
+        "awesome-readme",
+        "multimodal",
+        "world-modeling",
+        "world-models"
+      ]
+    },
+    "maurobonfietti/remote-jobs": {
+      "full_name": "maurobonfietti/remote-jobs",
+      "url": "https://github.com/maurobonfietti/remote-jobs",
+      "description": "🌎 README collection of remote job opportunities from around the world.",
+      "stars": 392,
+      "language": "",
+      "topics": [
+        "jobs",
+        "remote-jobs",
+        "remote-work"
+      ]
+    },
+    "mdruhulkuddus/awesome-free-ai-tools": {
+      "full_name": "mdruhulkuddus/awesome-free-ai-tools",
+      "url": "https://github.com/mdruhulkuddus/awesome-free-ai-tools",
+      "description": "A curated list of genuinely free AI tools — real free tiers, open-source projects, and freemium plans that are actually usable. 290+ tools across 46+ categories.",
+      "stars": 23,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "ai-tools",
+        "ai-tools-2026",
+        "ai-tools-directory",
+        "artificial-intelligence",
+        "awesome-list",
+        "chatgpt",
+        "claude",
+        "free",
+        "free-tools-of-development",
+        "gemini",
+        "llm",
+        "open-source"
+      ]
+    },
+    "mehdichaouch/awesome-stars": {
+      "full_name": "mehdichaouch/awesome-stars",
+      "url": "https://github.com/mehdichaouch/awesome-stars",
+      "description": "⭐ My own GitHub stars",
+      "stars": 15,
+      "language": "",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "lists"
+      ]
+    },
+    "mehek-builds/Summer2027-Internships": {
+      "full_name": "mehek-builds/Summer2027-Internships",
+      "url": "https://github.com/mehek-builds/Summer2027-Internships",
+      "description": "Internships in the US, Canada and remote, with Summer 2027, other stated terms and uncertain terms separated. Daily employer-board snapshots maintained by Litos.",
+      "stars": 6,
+      "language": "JavaScript",
+      "topics": [
+        "2027",
+        "career",
+        "college",
+        "internship",
+        "internships",
+        "job-search",
+        "jobs",
+        "new-grad",
+        "new-grad-jobs",
+        "quant",
+        "software-engineering",
+        "students",
+        "summer-2027",
+        "summer-2027-internships",
+        "summer-internship",
+        "tech-internship",
+        "visa-sponsorship"
+      ]
+    },
+    "mehmetkahya0/AI-Catalog": {
+      "full_name": "mehmetkahya0/AI-Catalog",
+      "url": "https://github.com/mehmetkahya0/AI-Catalog",
+      "description": "Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.",
+      "stars": 505,
+      "language": "HTML",
+      "topics": [
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "artificial-intelligence-algorithms",
+        "awesome",
+        "awesome-list",
+        "chatbot",
+        "claude",
+        "code",
+        "collection",
+        "data-science",
+        "education",
+        "gemini",
+        "image",
+        "image-processing",
+        "midjourney",
+        "openai",
+        "openai-chatgpt",
+        "stable-diffusion",
+        "summarizer"
+      ]
+    },
+    "memoryunreal/awesome-whole-body-control": {
+      "full_name": "memoryunreal/awesome-whole-body-control",
+      "url": "https://github.com/memoryunreal/awesome-whole-body-control",
+      "description": "",
+      "stars": 9,
+      "language": "Python",
+      "topics": []
+    },
+    "microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator": {
+      "full_name": "microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator",
+      "url": "https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator",
+      "description": "The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a group of AI agents to accomplish tasks based on user input. Powered by Microsoft Agent Framework, Azure Foundry, Azure Cosmos DB, and infrastructure services, it provides a reference application, allowing you to hit the ground running.",
+      "stars": 897,
+      "language": "Python",
+      "topics": [
+        "ai-azd-templates",
+        "azd-templates"
+      ]
+    },
+    "mirzayasirabdullahbaig07/Top-MachineLearning-DeepLearning-Projects": {
+      "full_name": "mirzayasirabdullahbaig07/Top-MachineLearning-DeepLearning-Projects",
+      "url": "https://github.com/mirzayasirabdullahbaig07/Top-MachineLearning-DeepLearning-Projects",
+      "description": "A curated collection of 10+ end-to-end AI/ML/DL projects showcasing real-world problem-solving, data analysis, and model deployment using Streamlit. Each project demonstrates the use of cutting-edge algorithms in healthcare, finance, NLP, and computer vision. Perfect for learning, inspiration.",
+      "stars": 55,
+      "language": "",
+      "topics": [
+        "ai-projects",
+        "aialgorithm",
+        "data-science",
+        "deeplearning",
+        "deployment",
+        "dsa",
+        "llms",
+        "machinelearning",
+        "nlp",
+        "projectsmanagement",
+        "python",
+        "streamlit"
+      ]
+    },
+    "mitharvardwai/mitxharvard-wai-resources": {
+      "full_name": "mitharvardwai/mitxharvard-wai-resources",
+      "url": "https://github.com/mitharvardwai/mitxharvard-wai-resources",
+      "description": "Compilation of ML/AI Resources for Members of MITxHarvard Women in AI",
+      "stars": 11,
+      "language": "",
+      "topics": []
+    },
+    "ml-patterns/ml-patterns": {
+      "full_name": "ml-patterns/ml-patterns",
+      "url": "https://github.com/ml-patterns/ml-patterns",
+      "description": "",
+      "stars": 6,
+      "language": "",
+      "topics": []
+    },
+    "msight-tech/imaterialist-product-2019": {
+      "full_name": "msight-tech/imaterialist-product-2019",
+      "url": "https://github.com/msight-tech/imaterialist-product-2019",
+      "description": "iMaterialist Challenge on Product Recognition at FGVC6, CVPR 2019",
+      "stars": 102,
+      "language": "",
+      "topics": []
+    },
+    "mustafatawfiq/Smart-Retail-Checkout-System": {
+      "full_name": "mustafatawfiq/Smart-Retail-Checkout-System",
+      "url": "https://github.com/mustafatawfiq/Smart-Retail-Checkout-System",
+      "description": "The system detects and recognizes the items without manual barcode scanning, displaying a real-time breakdown of recognized products on a screen.",
+      "stars": 10,
+      "language": "Jupyter Notebook",
+      "topics": []
+    },
+    "mwasifanwar/RetailMind-AI": {
+      "full_name": "mwasifanwar/RetailMind-AI",
+      "url": "https://github.com/mwasifanwar/RetailMind-AI",
+      "description": "AI-powered retail analytics platform that uses computer vision to track customer behavior, optimize store layouts, manage inventory, and provide personalized shopping recommendations using transformer architectures.",
+      "stars": 11,
+      "language": "Python",
+      "topics": [
+        "computer-vision",
+        "computer-vision-algorithms",
+        "computer-vision-opencv",
+        "computer-vision-tools",
+        "customer-analytics",
+        "deep-learning",
+        "deep-learning-algorithms",
+        "deep-learning-framework",
+        "inventory-management",
+        "inventory-management-dashboard",
+        "recommendation-systems",
+        "retail-analytics",
+        "transformer",
+        "transformer-models"
+      ]
+    },
+    "mxsm/rocketmq-rust": {
+      "full_name": "mxsm/rocketmq-rust",
+      "url": "https://github.com/mxsm/rocketmq-rust",
+      "description": "🚀 Apache RocketMQ built in Rust 🦀 — faster, safer, and more memory-efficient. Powering high-performance messaging for the AI era, with AI Agent, MCP, and AI-SRE capabilities.",
+      "stars": 1545,
+      "language": "Rust",
+      "topics": [
+        "ai-sre",
+        "cloud-native",
+        "mcp",
+        "mcp-server",
+        "mcp-tools",
+        "messaging",
+        "rocketmq",
+        "rocketmq-rust",
+        "rocketmq-rust-client",
+        "rocketmq-rust-sdk",
+        "rust",
+        "tauri"
+      ]
+    },
+    "mybigday/llama.rn": {
+      "full_name": "mybigday/llama.rn",
+      "url": "https://github.com/mybigday/llama.rn",
+      "description": "React Native binding of llama.cpp",
+      "stars": 1073,
+      "language": "C",
+      "topics": [
+        "android",
+        "ios",
+        "llama",
+        "llama-cpp",
+        "llm",
+        "react-native"
+      ]
+    },
+    "negarprh/Canadian-Tech-Internships-2027": {
+      "full_name": "negarprh/Canadian-Tech-Internships-2027",
+      "url": "https://github.com/negarprh/Canadian-Tech-Internships-2027",
+      "description": "A curated, regularly updated list of Canadian tech internships for Summer, Fall, and Winter 2027. Includes computer science, software engineering, software development, data, and IT internships across major Canadian cities and remote roles, with verified opportunities for students studying in Canada.",
+      "stars": 1352,
+      "language": "",
+      "topics": [
+        "2026",
+        "2027",
+        "canada",
+        "canada-coop",
+        "canada-internships",
+        "canada-software-internship",
+        "canadian-tech-internship-2027",
+        "canadian-tech-internships",
+        "computer-science",
+        "coop",
+        "cs-internship",
+        "internship",
+        "programming-internship",
+        "software-development",
+        "software-engineering",
+        "software-internships",
+        "summer-2027-internships",
+        "swe-internship-2027",
+        "swe-internships",
+        "tech-internship"
+      ]
+    },
+    "nirholas/Binance-MCP": {
+      "full_name": "nirholas/Binance-MCP",
+      "url": "https://github.com/nirholas/Binance-MCP",
+      "description": "MCP server for the Binance exchange API with spot market data, orders, earn, staking, wallet and more.",
+      "stars": 40,
+      "language": "TypeScript",
+      "topics": [
+        "binance",
+        "claude-code-plugin",
+        "crypto",
+        "exchange",
+        "mcp-server",
+        "model-context-protocol",
+        "trading",
+        "typescript"
+      ]
+    },
+    "nirholas/UCAI": {
+      "full_name": "nirholas/UCAI",
+      "url": "https://github.com/nirholas/UCAI",
+      "description": "UCAI: a Python CLI that generates MCP servers from smart contract ABIs so AI agents can read and call EVM contracts.",
+      "stars": 38,
+      "language": "Python",
+      "topics": [
+        "abi",
+        "claude-code-plugin",
+        "evm",
+        "mcp-server",
+        "model-context-protocol",
+        "python",
+        "smart-contracts",
+        "web3"
+      ]
+    },
+    "nirholas/bnbchain-mcp": {
+      "full_name": "nirholas/bnbchain-mcp",
+      "url": "https://github.com/nirholas/bnbchain-mcp",
+      "description": "MCP server giving AI agents BNB Chain, opBNB and Greenfield tools for chain data, token safety, swaps and storage.",
+      "stars": 35,
+      "language": "TypeScript",
+      "topics": [
+        "bnb-chain",
+        "bsc",
+        "claude-code-plugin",
+        "defi",
+        "evm",
+        "greenfield",
+        "mcp-server",
+        "opbnb"
+      ]
+    },
+    "nirholas/boosty": {
+      "full_name": "nirholas/boosty",
+      "url": "https://github.com/nirholas/boosty",
+      "description": "TypeScript MCP servers for DeFi: price data, wallet analytics, yield discovery and Solana wallet and trading tools.",
+      "stars": 30,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "defi",
+        "mcp",
+        "mcp-server",
+        "solana",
+        "trading",
+        "typescript",
+        "wallets"
+      ]
+    },
+    "nirholas/crypto-market-data-ts": {
+      "full_name": "nirholas/crypto-market-data-ts",
+      "url": "https://github.com/nirholas/crypto-market-data-ts",
+      "description": "TypeScript client for CoinGecko, DeFiLlama and Fear and Greed data with caching, rate limiting and Edge Runtime support.",
+      "stars": 25,
+      "language": "TypeScript",
+      "topics": [
+        "claude-code-plugin",
+        "coingecko",
+        "cryptocurrency",
+        "defillama",
+        "edge-runtime",
+        "fear-and-greed-index",
+        "market-data",
+        "typescript"
+      ]
+    },
+    "nirholas/defi-agents": {
+      "full_name": "nirholas/defi-agents",
+      "url": "https://github.com/nirholas/defi-agents",
+      "description": "JSON API of 40+ DeFi, portfolio and trading agent definitions in 18 languages, with a Claude Code plugin.",
+      "stars": 37,
+      "language": "TypeScript",
+      "topics": [
+        "agent-definitions",
+        "ai-agents",
+        "claude-code-plugin",
+        "crypto",
+        "defi",
+        "json-api",
+        "trading",
+        "web3"
+      ]
+    },
+    "nirholas/extract-llms-docs": {
+      "full_name": "nirholas/extract-llms-docs",
+      "url": "https://github.com/nirholas/extract-llms-docs",
+      "description": "Extract llms.txt documentation from any docs site for AI agents, with an MCP server and a Next.js web app.",
+      "stars": 35,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "claude-code-plugin",
+        "developer-tools",
+        "documentation",
+        "llms-txt",
+        "mcp-server",
+        "model-context-protocol",
+        "nextjs"
+      ]
+    },
+    "nirholas/github-to-mcp": {
+      "full_name": "nirholas/github-to-mcp",
+      "url": "https://github.com/nirholas/github-to-mcp",
+      "description": "Convert GitHub repositories into MCP servers by extracting tools from OpenAPI specs, READMEs, code and GraphQL.",
+      "stars": 35,
+      "language": "TypeScript",
+      "topics": [
+        "claude-code-plugin",
+        "code-generation",
+        "github",
+        "graphql",
+        "mcp",
+        "mcp-server",
+        "openapi",
+        "typescript"
+      ]
+    },
+    "nirholas/lyra-intel": {
+      "full_name": "nirholas/lyra-intel",
+      "url": "https://github.com/nirholas/lyra-intel",
+      "description": "Codebase intelligence engine with a Python CLI for analysis, complexity, dead code and security scanning.",
+      "stars": 29,
+      "language": "Python",
+      "topics": [
+        "claude-code-plugin",
+        "code-analysis",
+        "developer-tools",
+        "python",
+        "security-scanning",
+        "semantic-search",
+        "static-analysis"
+      ]
+    },
+    "nirholas/mcp-notify": {
+      "full_name": "nirholas/mcp-notify",
+      "url": "https://github.com/nirholas/mcp-notify",
+      "description": "Watch the MCP Registry for new, changed and removed servers, with notifications, a CLI, a Go SDK and an MCP server.",
+      "stars": 32,
+      "language": "Go",
+      "topics": [
+        "claude-code-plugin",
+        "go",
+        "mcp",
+        "mcp-registry",
+        "mcp-server",
+        "notifications",
+        "rss",
+        "webhooks"
+      ]
+    },
+    "open-edge-platform/edge-ai-libraries": {
+      "full_name": "open-edge-platform/edge-ai-libraries",
+      "url": "https://github.com/open-edge-platform/edge-ai-libraries",
+      "description": "Libraries, microservices, tools, and other reference software, supporting development of performance-optimized Edge AI applications.",
+      "stars": 179,
+      "language": "Python",
+      "topics": [
+        "libraries",
+        "microservices",
+        "samples",
+        "tools"
+      ]
+    },
+    "opengeos/geolibre-rust": {
+      "full_name": "opengeos/geolibre-rust",
+      "url": "https://github.com/opengeos/geolibre-rust",
+      "description": "whitebox_next_gen geospatial tools (plus new GeoLibre tools) compiled to WebAssembly (WASI) for in-browser use in GeoLibre",
+      "stars": 299,
+      "language": "Rust",
+      "topics": [
+        "geolibre",
+        "geospatial",
+        "open-source",
+        "rust",
+        "whiteboxtools"
+      ]
+    },
+    "pandengyao/ai-garden": {
+      "full_name": "pandengyao/ai-garden",
+      "url": "https://github.com/pandengyao/ai-garden",
+      "description": "My AI digital garden: research, reading and thinking about AI, recorded here bit by bit.",
+      "stars": 5,
+      "language": "Python",
+      "topics": []
+    },
+    "pattyish/price-tag-detection-system": {
+      "full_name": "pattyish/price-tag-detection-system",
+      "url": "https://github.com/pattyish/price-tag-detection-system",
+      "description": "a production-ready computer vision pipeline that detects retail shelf price tags with YOLO and extracts structured pricing text using OCR for automated audits and price compliance.",
+      "stars": 5,
+      "language": "Python",
+      "topics": []
+    },
+    "protontypes/open-sustainable-technology": {
+      "full_name": "protontypes/open-sustainable-technology",
+      "url": "https://github.com/protontypes/open-sustainable-technology",
+      "description": "A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.  https://docs.getgrist.com/doc/gSscJkc5Rb1Rw45gh1o1Yc",
+      "stars": 2585,
+      "language": "",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "biodiversity",
+        "carbon-emissions",
+        "climate",
+        "climate-change",
+        "climate-data",
+        "climate-science",
+        "earth-science",
+        "energy",
+        "energy-consumption",
+        "energy-data",
+        "geoscience",
+        "ocean",
+        "photovoltaic",
+        "renewable-energy",
+        "renewables",
+        "sustainability",
+        "sustainable-development-goals",
+        "wind-turbine"
+      ]
+    },
+    "pstAmbition/DailyArXiv_Multimodal": {
+      "full_name": "pstAmbition/DailyArXiv_Multimodal",
+      "url": "https://github.com/pstAmbition/DailyArXiv_Multimodal",
+      "description": "Daily ArXiv Papers.",
+      "stars": 19,
+      "language": "Python",
+      "topics": []
+    },
+    "qixing-jk/all-api-hub": {
+      "full_name": "qixing-jk/all-api-hub",
+      "url": "https://github.com/qixing-jk/all-api-hub",
+      "description": "All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理",
+      "stars": 5060,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "cc-switch",
+        "chatgpt",
+        "chatgpt-api",
+        "cherrystudio",
+        "claude",
+        "claude-code",
+        "cliproxyapi",
+        "codex",
+        "new-api",
+        "newapi",
+        "one-api",
+        "openai",
+        "openrouter",
+        "sub2api",
+        "voapi"
+      ]
+    },
+    "reacher-z/Awesome-REA": {
+      "full_name": "reacher-z/Awesome-REA",
+      "url": "https://github.com/reacher-z/Awesome-REA",
+      "description": "Curated tools, case studies and papers for reverse engineering websites, games, apps, binaries, firmware and protocols. Source-reviewed, English and Chinese.",
+      "stars": 2721,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "android-reverse-engineering",
+        "awesome",
+        "awesome-list",
+        "awesome-resources",
+        "binary-analysis",
+        "decompilation",
+        "firmware-analysis",
+        "game-reversing",
+        "ghidra",
+        "ios-reverse-engineering",
+        "javascript-deobfuscation",
+        "mcp",
+        "protocol-analysis",
+        "rea",
+        "research-papers",
+        "reverse-engineering",
+        "static-analysis",
+        "web-reverse-engineering"
+      ]
+    },
+    "rempeople/RetailGlue": {
+      "full_name": "rempeople/RetailGlue",
+      "url": "https://github.com/rempeople/RetailGlue",
+      "description": "",
+      "stars": 8,
+      "language": "Python",
+      "topics": []
+    },
+    "renoise-ai/awesome-seedance-2-5-prompts": {
+      "full_name": "renoise-ai/awesome-seedance-2-5-prompts",
+      "url": "https://github.com/renoise-ai/awesome-seedance-2-5-prompts",
+      "description": "Curated official Seedance 2.5 video prompts (ByteDance/Volcano Ark preview) — copy & run in Renoise",
+      "stars": 7,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "renoise-ai/renoise-plugins-official": {
+      "full_name": "renoise-ai/renoise-plugins-official",
+      "url": "https://github.com/renoise-ai/renoise-plugins-official",
+      "description": "AI video production skills by Renoise — creative direction, generation, analysis, e-commerce content, and download.",
+      "stars": 70,
+      "language": "TypeScript",
+      "topics": []
+    },
+    "rochacbruno/my-awesome-stars": {
+      "full_name": "rochacbruno/my-awesome-stars",
+      "url": "https://github.com/rochacbruno/my-awesome-stars",
+      "description": "",
+      "stars": 18,
+      "language": "",
+      "topics": []
+    },
+    "rohanmistry231/Computer-Vision-Interview-Preparation": {
+      "full_name": "rohanmistry231/Computer-Vision-Interview-Preparation",
+      "url": "https://github.com/rohanmistry231/Computer-Vision-Interview-Preparation",
+      "description": "A comprehensive resource for mastering computer vision, featuring practice problems, code examples, and interview-focused concepts using Python and OpenCV. Covers image processing, object detection, and deep learning models for technical interview success.",
+      "stars": 36,
+      "language": "Python",
+      "topics": [
+        "computer-vision-opencv",
+        "deep-learning",
+        "image-processing",
+        "interview-preparation",
+        "machine-learning",
+        "object-detection",
+        "opencv3",
+        "python"
+      ]
+    },
+    "rokopi-byte/shelf_management": {
+      "full_name": "rokopi-byte/shelf_management",
+      "url": "https://github.com/rokopi-byte/shelf_management",
+      "description": "Dataset and Codebase for \"Shelf Management: a Deep Learning-Based system for shelf visual monitoring\" https://doi.org/10.1016/j.eswa.2024.124635",
+      "stars": 16,
+      "language": "Python",
+      "topics": []
+    },
+    "router-for-me/CLIProxyAPI": {
+      "full_name": "router-for-me/CLIProxyAPI",
+      "url": "https://github.com/router-for-me/CLIProxyAPI",
+      "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+      "stars": 58485,
+      "language": "Go",
+      "topics": [
+        "antigravity",
+        "claude",
+        "claude-code",
+        "codex",
+        "devin",
+        "gemini",
+        "muse",
+        "openai"
+      ]
+    },
+    "sayakpaul/Grocery-Product-Detection": {
+      "full_name": "sayakpaul/Grocery-Product-Detection",
+      "url": "https://github.com/sayakpaul/Grocery-Product-Detection",
+      "description": "This repository builds a product detection model to recognize products from grocery shelf images.",
+      "stars": 100,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "detection",
+        "product-recognition",
+        "tfod-api",
+        "vision"
+      ]
+    },
+    "scroobius-pip/fudge-design-md": {
+      "full_name": "scroobius-pip/fudge-design-md",
+      "url": "https://github.com/scroobius-pip/fudge-design-md",
+      "description": "DESIGN.md guides generated from real website references captured by Fudge.",
+      "stars": 123,
+      "language": "JavaScript",
+      "topics": [
+        "ai-design",
+        "awesome-list",
+        "design-md",
+        "design-system",
+        "design-tokens",
+        "figma",
+        "figmadesign",
+        "google-stitch",
+        "landing-page",
+        "vibe-coding",
+        "vibecoding",
+        "website-design"
+      ]
+    },
+    "seun-ipaye/frogg-canadian-internships": {
+      "full_name": "seun-ipaye/frogg-canadian-internships",
+      "url": "https://github.com/seun-ipaye/frogg-canadian-internships",
+      "description": "🐸 Canadian tech internships & co-ops, updated every 30 minutes. Get new postings in your Discord server with Frogg.",
+      "stars": 25,
+      "language": "",
+      "topics": [
+        "canada",
+        "canadian-internships",
+        "career",
+        "co-op",
+        "coop",
+        "discord-bot",
+        "hiring",
+        "internship",
+        "internships",
+        "job-board",
+        "jobs",
+        "new-grad",
+        "software-engineering-internships",
+        "students",
+        "summer-2027",
+        "tech-internships",
+        "toronto",
+        "university",
+        "vancouver",
+        "waterloo"
+      ]
+    },
+    "seunghan96/cfa": {
+      "full_name": "seunghan96/cfa",
+      "url": "https://github.com/seunghan96/cfa",
+      "description": "",
+      "stars": 8,
+      "language": "Python",
+      "topics": []
+    },
+    "siddhantmaharana/counting-objects": {
+      "full_name": "siddhantmaharana/counting-objects",
+      "url": "https://github.com/siddhantmaharana/counting-objects",
+      "description": "This project aims to count the retail objects present in the image. It uses OpenCV and Deep Learning models to count the images",
+      "stars": 28,
+      "language": "Jupyter Notebook",
+      "topics": []
+    },
+    "sjsj0101/good-quant-ai-papers": {
+      "full_name": "sjsj0101/good-quant-ai-papers",
+      "url": "https://github.com/sjsj0101/good-quant-ai-papers",
+      "description": "Curated top-conference papers for quantitative finance and asset management",
+      "stars": 6,
+      "language": "Python",
+      "topics": [
+        "asset-management",
+        "awesome-list",
+        "financial-machine-learning",
+        "machine-learning",
+        "portfolio-management",
+        "quantitative-finance",
+        "quantitative-investing",
+        "research-papers"
+      ]
+    },
+    "sovyx-ai/sovyx": {
+      "full_name": "sovyx-ai/sovyx",
+      "url": "https://github.com/sovyx-ai/sovyx",
+      "description": "Sovereign AI companion - cognitive architecture, persistent memory, emotional modeling, and voice interface. Local-first. Runs on Pi 5.",
+      "stars": 9,
+      "language": "Python",
+      "topics": []
+    },
+    "sparsha-2011/physical-ai-learning-journey": {
+      "full_name": "sparsha-2011/physical-ai-learning-journey",
+      "url": "https://github.com/sparsha-2011/physical-ai-learning-journey",
+      "description": "All the study materials required for the NVIDIA OpenUSD Professional Development Certification (NCP-OUSD)",
+      "stars": 10,
+      "language": "Python",
+      "topics": []
+    },
+    "speedyapply/2027-AI-College-Jobs": {
+      "full_name": "speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "description": "2027 AI/ML internship & new graduate job list updated daily",
+      "stars": 6643,
+      "language": "",
+      "topics": [
+        "ai",
+        "applications",
+        "artificial-intelligence",
+        "college",
+        "data",
+        "data-science",
+        "fulltime",
+        "hiring",
+        "intern",
+        "internship",
+        "internships",
+        "interviews",
+        "jobbboard",
+        "jobs",
+        "junior",
+        "machine-learning",
+        "ml",
+        "newgrad",
+        "quant",
+        "university"
+      ]
+    },
+    "strands-labs/strands-decider": {
+      "full_name": "strands-labs/strands-decider",
+      "url": "https://github.com/strands-labs/strands-decider",
+      "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
+      "stars": 1170,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "machine-learning",
+        "natural-language-understanding",
+        "python",
+        "strands-agents",
+        "strands-labs",
+        "system-one",
+        "system-one-models"
+      ]
+    },
+    "sujalrajapure/Top_unique_project_list": {
+      "full_name": "sujalrajapure/Top_unique_project_list",
+      "url": "https://github.com/sujalrajapure/Top_unique_project_list",
+      "description": "",
+      "stars": 75,
+      "language": "",
+      "topics": []
+    },
+    "superiorlu/AITreasureBox": {
+      "full_name": "superiorlu/AITreasureBox",
+      "url": "https://github.com/superiorlu/AITreasureBox",
+      "description": "🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎",
+      "stars": 924,
+      "language": "Ruby",
+      "topics": [
+        "agentic",
+        "agi",
+        "ai",
+        "ai-gents",
+        "ai-prompts",
+        "ai-tools",
+        "alpaca",
+        "awesome-list",
+        "deep-learning",
+        "deepseek",
+        "gpt",
+        "harness",
+        "llama",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "openai"
+      ]
+    },
+    "sutaoyu/awesome-ai-security-agents": {
+      "full_name": "sutaoyu/awesome-ai-security-agents",
+      "url": "https://github.com/sutaoyu/awesome-ai-security-agents",
+      "description": ":sparkles: Awesome things about AI security agents. Papers / Repos / Blogs / ...",
+      "stars": 8,
+      "language": "",
+      "topics": []
+    },
+    "svg153/awesome-stars": {
+      "full_name": "svg153/awesome-stars",
+      "url": "https://github.com/svg153/awesome-stars",
+      "description": "",
+      "stars": 12,
+      "language": "JavaScript",
+      "topics": [
+        "awesome-list"
+      ]
+    },
+    "taishi-i/awesome-ChatGPT-repositories": {
+      "full_name": "taishi-i/awesome-ChatGPT-repositories",
+      "url": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+      "description": "A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.",
+      "stars": 3374,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-skills",
+        "ai",
+        "awesome",
+        "awesome-list",
+        "chatgpt",
+        "codex",
+        "gpt-5",
+        "llm",
+        "openai",
+        "skills"
+      ]
+    },
+    "tangwen-qian/DailyArXiv": {
+      "full_name": "tangwen-qian/DailyArXiv",
+      "url": "https://github.com/tangwen-qian/DailyArXiv",
+      "description": "",
+      "stars": 62,
+      "language": "Python",
+      "topics": []
+    },
+    "tech-andgar/awesome-stars": {
+      "full_name": "tech-andgar/awesome-stars",
+      "url": "https://github.com/tech-andgar/awesome-stars",
+      "description": "A curated list of my GitHub stars by stargazed",
+      "stars": 22,
+      "language": "",
+      "topics": []
+    },
+    "the911fund/skill-of-skills": {
+      "full_name": "the911fund/skill-of-skills",
+      "url": "https://github.com/the911fund/skill-of-skills",
+      "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Windsurf, Cline and more.",
+      "stars": 84,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-tools",
+        "automation",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "discovery-engine",
+        "mcp",
+        "mcp-servers",
+        "n8n",
+        "open-source",
+        "plugins",
+        "skills"
+      ]
+    },
+    "thedaviddias/llms-txt-hub": {
+      "full_name": "thedaviddias/llms-txt-hub",
+      "url": "https://github.com/thedaviddias/llms-txt-hub",
+      "description": "🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard",
+      "stars": 927,
+      "language": "TypeScript",
+      "topics": [
+        "cursor",
+        "cursor-ai",
+        "directory",
+        "llms",
+        "llms-txt",
+        "llmstxt",
+        "nextjs",
+        "robots-txt",
+        "supabase",
+        "supabase-auth",
+        "taiwindcss"
+      ]
+    },
+    "thinkwee/AgentsMeetRL": {
+      "full_name": "thinkwee/AgentsMeetRL",
+      "url": "https://github.com/thinkwee/AgentsMeetRL",
+      "description": "Awesome List for Agentic RL",
+      "stars": 1881,
+      "language": "HTML",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-coding",
+        "agentic-workflow",
+        "awesome-list",
+        "large-language-model",
+        "llm",
+        "llm-age",
+        "multiagent",
+        "reinforcement",
+        "rlhf",
+        "rlvr",
+        "tool-learning"
+      ]
+    },
+    "thomas-yanxin/ColugoMum": {
+      "full_name": "thomas-yanxin/ColugoMum",
+      "url": "https://github.com/thomas-yanxin/ColugoMum",
+      "description": "🍰🍎ColugoMum: Intelligent Retail Settlement Platform can accurately locate and identify each commodity, and can return a complete shopping list and the actual total price of commodities that customers should pay.",
+      "stars": 292,
+      "language": "Python",
+      "topics": [
+        "deep-learning",
+        "django",
+        "image-recognition",
+        "image-retrieval-system",
+        "nano",
+        "paddleclas",
+        "paddlepaddle",
+        "pp-shitu",
+        "product-recognition",
+        "wxapp"
+      ]
+    },
+    "toolsdk-ai/toolsdk-mcp-registry": {
+      "full_name": "toolsdk-ai/toolsdk-mcp-registry",
+      "url": "https://github.com/toolsdk-ai/toolsdk-mcp-registry",
+      "description": "MCPSDK.dev(ToolSDK.ai)'s Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations. Supports OAuth2.1, DCR...",
+      "stars": 233,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-tools",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "mcp"
+      ]
+    },
+    "townie/awesome-system-one": {
+      "full_name": "townie/awesome-system-one",
+      "url": "https://github.com/townie/awesome-system-one",
+      "description": "Curated list related to System One",
+      "stars": 5,
+      "language": "Python",
+      "topics": []
+    },
+    "tycloud97/awesome-stars": {
+      "full_name": "tycloud97/awesome-stars",
+      "url": "https://github.com/tycloud97/awesome-stars",
+      "description": "A curated list of my GitHub stars by stargazed",
+      "stars": 31,
+      "language": "",
+      "topics": []
+    },
+    "tykimos/ai-whatchelin": {
+      "full_name": "tykimos/ai-whatchelin",
+      "url": "https://github.com/tykimos/ai-whatchelin",
+      "description": "AI WhatChelin? — The Ultimate AI Tool Comparison Guide for Vibe Coders, Creators & Office Workers",
+      "stars": 65,
+      "language": "",
+      "topics": []
+    },
+    "uhub/awesome-agent": {
+      "full_name": "uhub/awesome-agent",
+      "url": "https://github.com/uhub/awesome-agent",
+      "description": "A curated list of awesome AI Agent frameworks, libraries and software.",
+      "stars": 7,
+      "language": "",
+      "topics": [
+        "agent",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "curated-list",
+        "list",
+        "llm",
+        "resources"
+      ]
+    },
+    "vanshb03/New-Grad-2027": {
+      "full_name": "vanshb03/New-Grad-2027",
+      "url": "https://github.com/vanshb03/New-Grad-2027",
+      "description": "2026 & 2027 New grad full-time roles in SWE, Quant, and PM. ",
+      "stars": 2702,
+      "language": "",
+      "topics": [
+        "2027",
+        "2027-graduates",
+        "college",
+        "full-time",
+        "full-time-jobs-canada",
+        "fulltime",
+        "jobs",
+        "newgrad",
+        "newgrad-roles",
+        "university"
+      ]
+    },
+    "vanshb03/Summer2027-Internships": {
+      "full_name": "vanshb03/Summer2027-Internships",
+      "url": "https://github.com/vanshb03/Summer2027-Internships",
+      "description": "Collection of Summer, Fall, Spring 2027 tech internships!",
+      "stars": 9190,
+      "language": "",
+      "topics": [
+        "fall-2025",
+        "fall-2026",
+        "github",
+        "internship",
+        "internships",
+        "job-search",
+        "job-search-tools",
+        "jobs",
+        "spring-2027",
+        "summer",
+        "summer-2027",
+        "university",
+        "winter-2026",
+        "winternship"
+      ]
+    },
+    "vergilshawn/Awesome-Humanoid-Robot-Learning": {
+      "full_name": "vergilshawn/Awesome-Humanoid-Robot-Learning",
+      "url": "https://github.com/vergilshawn/Awesome-Humanoid-Robot-Learning",
+      "description": "The goal is to efficiently discover highly relevant humanoid robot learning papers without manually browsing arXiv every day.",
+      "stars": 39,
+      "language": "Python",
+      "topics": []
+    },
+    "viktorbezdek/awesome-github-projects": {
+      "full_name": "viktorbezdek/awesome-github-projects",
+      "url": "https://github.com/viktorbezdek/awesome-github-projects",
+      "description": "Curated list of GitHub projects I starred over the years",
+      "stars": 836,
+      "language": "Python",
+      "topics": []
+    },
+    "vimalsri318/vimalsri318": {
+      "full_name": "vimalsri318/vimalsri318",
+      "url": "https://github.com/vimalsri318/vimalsri318",
+      "description": "Config files for my GitHub profile.",
+      "stars": 5,
+      "language": "",
+      "topics": [
+        "config",
+        "github-config"
+      ]
+    },
+    "vinta/awesome-python": {
+      "full_name": "vinta/awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "stars": 334494,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "python",
+        "python-frameworks",
+        "python-libraries",
+        "python-tools"
+      ]
+    },
+    "vivianaranha/100-Days-of-AI-Development": {
+      "full_name": "vivianaranha/100-Days-of-AI-Development",
+      "url": "https://github.com/vivianaranha/100-Days-of-AI-Development",
+      "description": "100 Days of AI Development — 100 Production-Level Projects",
+      "stars": 5,
+      "language": "",
+      "topics": []
+    },
+    "wd1511/Awesome-Diffusion-for-Image-Translation": {
+      "full_name": "wd1511/Awesome-Diffusion-for-Image-Translation",
+      "url": "https://github.com/wd1511/Awesome-Diffusion-for-Image-Translation",
+      "description": "A collection of papers on Diffusion for Image-to-Image Translation and Style Transfer",
+      "stars": 273,
+      "language": "Python",
+      "topics": []
+    },
+    "webmachinelearning/webmcp": {
+      "full_name": "webmachinelearning/webmcp",
+      "url": "https://github.com/webmachinelearning/webmcp",
+      "description": "🤖 WebMCP",
+      "stars": 4942,
+      "language": "Bikeshed",
+      "topics": []
+    },
+    "wh000wh000/awesome-jev-live": {
+      "full_name": "wh000wh000/awesome-jev-live",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
+      "description": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "stars": 379,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-jev",
+        "awesome-list",
+        "calibration",
+        "curated-list",
+        "decision-making",
+        "developer-tools",
+        "jev",
+        "llm-tools",
+        "mcp",
+        "system-one",
+        "typesafe"
+      ]
+    },
+    "workopia/Australia-Graduate-Jobs": {
+      "full_name": "workopia/Australia-Graduate-Jobs",
+      "url": "https://github.com/workopia/Australia-Graduate-Jobs",
+      "description": "Australia graduate, entry-level & internship jobs — updated daily by Workopia",
+      "stars": 96,
+      "language": "JavaScript",
+      "topics": [
+        "au",
+        "careers",
+        "entry-level",
+        "graduate-jobs",
+        "internships",
+        "job-search",
+        "jobs",
+        "new-grad"
+      ]
+    },
+    "workopia/Singapore-Graduate-Internship-Jobs": {
+      "full_name": "workopia/Singapore-Graduate-Internship-Jobs",
+      "url": "https://github.com/workopia/Singapore-Graduate-Internship-Jobs",
+      "description": "Singapore graduate, trainee & internship jobs — updated daily by Workopia",
+      "stars": 63,
+      "language": "JavaScript",
+      "topics": [
+        "careers",
+        "entry-level",
+        "graduate-jobs",
+        "internships",
+        "job-search",
+        "jobs",
+        "new-grad",
+        "sg"
+      ]
+    },
+    "workopia/UK-Graduate-Jobs": {
+      "full_name": "workopia/UK-Graduate-Jobs",
+      "url": "https://github.com/workopia/UK-Graduate-Jobs",
+      "description": "UK graduate schemes, entry-level jobs, apprenticeships & internships — updated daily by Workopia",
+      "stars": 70,
+      "language": "JavaScript",
+      "topics": [
+        "careers",
+        "entry-level",
+        "graduate-jobs",
+        "internships",
+        "job-search",
+        "jobs",
+        "new-grad",
+        "uk"
+      ]
+    },
+    "workopia/US-New-Grad-Internship-Jobs": {
+      "full_name": "workopia/US-New-Grad-Internship-Jobs",
+      "url": "https://github.com/workopia/US-New-Grad-Internship-Jobs",
+      "description": "US new grad, entry-level & internship jobs — updated daily by Workopia",
+      "stars": 311,
+      "language": "JavaScript",
+      "topics": [
+        "careers",
+        "entry-level",
+        "graduate-jobs",
+        "internships",
+        "job-search",
+        "jobs",
+        "new-grad"
+      ]
+    },
+    "xianshang33/llm-paper-daily": {
+      "full_name": "xianshang33/llm-paper-daily",
+      "url": "https://github.com/xianshang33/llm-paper-daily",
+      "description": "Daily updated LLM papers.        每日更新 LLM 相关的论文，欢迎订阅 👏   喜欢的话动动你的小手 🌟 一个",
+      "stars": 1342,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "chatgpt",
+        "large-language-models",
+        "llm",
+        "rag"
+      ]
+    },
+    "xraysight/hermes-memory-ui": {
+      "full_name": "xraysight/hermes-memory-ui",
+      "url": "https://github.com/xraysight/hermes-memory-ui",
+      "description": "Read-only Dashboard and Desktop plugin for inspecting Hermes Agent memory.",
+      "stars": 77,
+      "language": "Python",
+      "topics": [
+        "byterover",
+        "hermes-agent",
+        "hindsight",
+        "holographic",
+        "honcho",
+        "mem0",
+        "memory",
+        "mnemosyne",
+        "plugin"
+      ]
+    },
+    "yibie/awesome-autoresearch": {
+      "full_name": "yibie/awesome-autoresearch",
+      "url": "https://github.com/yibie/awesome-autoresearch",
+      "description": "awesome autoresearch list",
+      "stars": 795,
+      "language": "Python",
+      "topics": []
+    },
+    "yibie/awesome-jev": {
+      "full_name": "yibie/awesome-jev",
+      "url": "https://github.com/yibie/awesome-jev",
+      "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+      "stars": 2582,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "jev",
+        "llm"
+      ]
+    },
+    "yifeizhangcs/awesome-agentic-commerce": {
+      "full_name": "yifeizhangcs/awesome-agentic-commerce",
+      "url": "https://github.com/yifeizhangcs/awesome-agentic-commerce",
+      "description": "",
+      "stars": 19,
+      "language": "",
+      "topics": []
+    },
+    "yqhuang722/DailyArxiv": {
+      "full_name": "yqhuang722/DailyArxiv",
+      "url": "https://github.com/yqhuang722/DailyArxiv",
+      "description": "A bot that automatically fetches the latest articles from Arxiv, helping users stay updated with new research papers based on customizable keywords or categories. Ideal for researchers and academics tracking cutting-edge developments.",
+      "stars": 8,
+      "language": "Python",
+      "topics": []
+    },
+    "ysyisyourbrother/awesome-on-device-AI": {
+      "full_name": "ysyisyourbrother/awesome-on-device-AI",
+      "url": "https://github.com/ysyisyourbrother/awesome-on-device-AI",
+      "description": "A curated list of awesome projects and papers for AI on Mobile/IoT/Edge devices. Everything is continuously updating. Welcome contribution!",
+      "stars": 57,
+      "language": "",
+      "topics": []
+    },
+    "zeaoji/MyDailyArXiv": {
+      "full_name": "zeaoji/MyDailyArXiv",
+      "url": "https://github.com/zeaoji/MyDailyArXiv",
+      "description": "",
+      "stars": 5,
+      "language": "Python",
+      "topics": []
+    },
+    "zengzzzzz/golang-trending-archive": {
+      "full_name": "zengzzzzz/golang-trending-archive",
+      "url": "https://github.com/zengzzzzz/golang-trending-archive",
+      "description": "track golang trending in github",
+      "stars": 26,
+      "language": "Python",
+      "topics": []
+    },
+    "zetic-ai/awesome-on-device-ai-apps": {
+      "full_name": "zetic-ai/awesome-on-device-ai-apps",
+      "url": "https://github.com/zetic-ai/awesome-on-device-ai-apps",
+      "description": "Open-source production-ready mobile server-less AI apps. Clone, customize, and ship on Android & iOS with MLange.",
+      "stars": 51,
+      "language": "Swift",
+      "topics": [
+        "edge-ai",
+        "edge-computing",
+        "edge-tts",
+        "npu",
+        "npu-acceleration",
+        "on-device-ai",
+        "on-device-inference",
+        "on-device-llm",
+        "on-device-ml",
+        "vibe-coding",
+        "vibecoding"
+      ]
+    },
+    "zhouchanggeng/DailyArXiv": {
+      "full_name": "zhouchanggeng/DailyArXiv",
+      "url": "https://github.com/zhouchanggeng/DailyArXiv",
+      "description": "",
+      "stars": 7,
+      "language": "Python",
+      "topics": []
+    }
+  }
+}
